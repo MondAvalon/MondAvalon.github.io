@@ -82,6 +82,86 @@
       </tags>
   </entry>
   <entry>
+    <title>Xine</title>
+    <url>/2023/12/31/ae5ddb00/</url>
+    <content><![CDATA[<h1 id="Xine-and-Chi’s-Story"><a href="#Xine-and-Chi’s-Story" class="headerlink" title="Xine and Chi’s Story"></a><em><strong><center>Xine and Chi’s Story</center></strong></em></h1><hr>
+<span id="more"></span>
+
+<blockquote>
+<p>2022.4.14</p>
+</blockquote>
+<h2 id="序"><a href="#序" class="headerlink" title="序"></a><center>序</center></h2><p>于梦境中,又一次回到了这里。</p>
+<p>森林还是草原?只知道有一片片翻滚的绿色浪涛。或许是海洋也说不定。山丘上,风一直在吹着。或许是呼呼的声音,或许是沙沙的声音,在耳边飞过。云在靛蓝亦或是粉蓝的空中,无规律地变化着它的形状,但它们始经以同心圆的外表包围着中心的光球。太阳?应该是这么称呼的。</p>
+<p>抬头仰视,甚至看得见日珥的喷发。但并不刺眼,只是感受到了它的温暖。不能从它身上移开视线———眼睛被牢牢吸引住了。</p>
+<p>奇怪的感觉。天上的那个东西既熟悉又陌生。温暖一如既往,又却被疏远了。甚至灼热了起来。绿它的浪涛成为枯黄的浪涛。然后成为火的浪涛。身体没有痛苦,但不知为何流下了眼泪。眼泪也很快沸腾起来不见了。</p>
+<p>火海褪去,是一片焦土。一眨眼,眼前分明出现了直插天穹的森林。在墨绿与漆黑下,本右看不到太阳的。然而它不会时宜地出现了。直射着眼球。</p>
+<p>为什么。它的光芒更亮了。本能似地我向它伸出手。</p>
+<hr>
+<blockquote>
+<p>古早黑历史归档，如有错误纯属正常。<br>文笔幼稚，请友善评论，还请不要嘲笑😭</p>
+</blockquote>
+<!--
+
+---
+
+## Ewist
+
+> 第一次,或许是偶然；第二次,你也可以说是巧合；第三次,就不是了啊。第四次五次,已然是命中注定了。
+
+蝉在树杈上不停地嘶叫。只有在树荫上望着背着太阳的蓝天,才能从这热辐射中暂时逃脱一下。很有一些平凡普通的故事,是从一个平凡的夏日开始的。
+
+一群吵吵嚷嚷的男学生走了过来。
+热死了——”其中一位故作佝偻状,仿佛垂死一般。
+“是国外的Greenhouse学说么——不至于罢……另一位推了推因出汗而滑下来的眼镜。
+“唉,衣服脏了。”一位手中的雪糕化掉滴在衬衫上了。
+“螭的衣服上……又白又粘……”一位笑着说。
+“哈哈哈……”大家都笑了起来。
+“去那边菱山上怎么样?山上有个菱湖。而且树也多。肯定比这凉快。”被称作“螭”的男孩转移了一下话题。
+“可是听长辈说菱山上很危险。”
+“笑话,哪座山不危险?”说。
+
+---
+
+听到这,月忍不住插了一句:“不危险。”
+川阳敦促着被打断的友人继续讲。川阳姐妹本是打算乘船去看烟花,顺便拜访朋友。然而在烟花的五彩光芒映村下,友人为她们讲述着一个传说——友人是这么说的。这实在是巨大的意外之得,比烟花还吸引着川阳与月海。
+没人转过头去,侧脸映着空中烟花的闪烁。“那么,我继续了。”
+
+---
+
+男学生们于是到达了菱湖边上。
+“好凉快啊!不进去就已经能感觉到了。”
+
+-->]]></content>
+      <categories>
+        <category>OC</category>
+        <category>Xine</category>
+      </categories>
+      <tags>
+        <tag>OC</tag>
+        <tag>归档</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Hello World</title>
+    <url>/2023/12/26/4a17b156/</url>
+    <content><![CDATA[<hr>
+<span id="more"></span>
+<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
+<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p>
+<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p>
+<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p>
+<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
+]]></content>
+  </entry>
+  <entry>
     <title>Avalon</title>
     <url>/2023/12/31/896cf410/</url>
     <content><![CDATA[<blockquote>
@@ -259,83 +339,23 @@
       </tags>
   </entry>
   <entry>
-    <title>Hello World</title>
-    <url>/2023/12/26/4a17b156/</url>
-    <content><![CDATA[<hr>
-<span id="more"></span>
-<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
-<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p>
-<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p>
-<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p>
-<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
-]]></content>
-  </entry>
-  <entry>
-    <title>Xine</title>
-    <url>/2023/12/31/ae5ddb00/</url>
-    <content><![CDATA[<h1 id="Xine-and-Chi’s-Story"><a href="#Xine-and-Chi’s-Story" class="headerlink" title="Xine and Chi’s Story"></a><em><strong><center>Xine and Chi’s Story</center></strong></em></h1><hr>
-<span id="more"></span>
-
-<blockquote>
-<p>2022.4.14</p>
-</blockquote>
-<h2 id="序"><a href="#序" class="headerlink" title="序"></a><center>序</center></h2><p>于梦境中,又一次回到了这里。</p>
-<p>森林还是草原?只知道有一片片翻滚的绿色浪涛。或许是海洋也说不定。山丘上,风一直在吹着。或许是呼呼的声音,或许是沙沙的声音,在耳边飞过。云在靛蓝亦或是粉蓝的空中,无规律地变化着它的形状,但它们始经以同心圆的外表包围着中心的光球。太阳?应该是这么称呼的。</p>
-<p>抬头仰视,甚至看得见日珥的喷发。但并不刺眼,只是感受到了它的温暖。不能从它身上移开视线———眼睛被牢牢吸引住了。</p>
-<p>奇怪的感觉。天上的那个东西既熟悉又陌生。温暖一如既往,又却被疏远了。甚至灼热了起来。绿它的浪涛成为枯黄的浪涛。然后成为火的浪涛。身体没有痛苦,但不知为何流下了眼泪。眼泪也很快沸腾起来不见了。</p>
-<p>火海褪去,是一片焦土。一眨眼,眼前分明出现了直插天穹的森林。在墨绿与漆黑下,本右看不到太阳的。然而它不会时宜地出现了。直射着眼球。</p>
-<p>为什么。它的光芒更亮了。本能似地我向它伸出手。</p>
+    <title>测试文章</title>
+    <url>/2023/12/27/9daba997/</url>
+    <content><![CDATA[<p>这是一篇测试文章</p>
 <hr>
-<blockquote>
-<p>古早黑历史归档，如有错误纯属正常。<br>文笔幼稚，请友善评论，还请不要嘲笑😭</p>
-</blockquote>
-<!--
-
----
-
-## Ewist
-
-> 第一次,或许是偶然；第二次,你也可以说是巧合；第三次,就不是了啊。第四次五次,已然是命中注定了。
-
-蝉在树杈上不停地嘶叫。只有在树荫上望着背着太阳的蓝天,才能从这热辐射中暂时逃脱一下。很有一些平凡普通的故事,是从一个平凡的夏日开始的。
-
-一群吵吵嚷嚷的男学生走了过来。
-热死了——”其中一位故作佝偻状,仿佛垂死一般。
-“是国外的Greenhouse学说么——不至于罢……另一位推了推因出汗而滑下来的眼镜。
-“唉,衣服脏了。”一位手中的雪糕化掉滴在衬衫上了。
-“螭的衣服上……又白又粘……”一位笑着说。
-“哈哈哈……”大家都笑了起来。
-“去那边菱山上怎么样?山上有个菱湖。而且树也多。肯定比这凉快。”被称作“螭”的男孩转移了一下话题。
-“可是听长辈说菱山上很危险。”
-“笑话,哪座山不危险?”说。
-
----
-
-听到这,月忍不住插了一句:“不危险。”
-川阳敦促着被打断的友人继续讲。川阳姐妹本是打算乘船去看烟花,顺便拜访朋友。然而在烟花的五彩光芒映村下,友人为她们讲述着一个传说——友人是这么说的。这实在是巨大的意外之得,比烟花还吸引着川阳与月海。
-没人转过头去,侧脸映着空中烟花的闪烁。“那么,我继续了。”
-
----
-
-男学生们于是到达了菱湖边上。
-“好凉快啊!不进去就已经能感觉到了。”
-
--->]]></content>
-      <categories>
-        <category>OC</category>
-        <category>Xine</category>
-      </categories>
+ <span id="more"></span>
+<h1 id="小程序前端开发"><a href="#小程序前端开发" class="headerlink" title="小程序前端开发"></a>小程序前端开发</h1><h2 id="P1-小程序的开发与web开发非常相似，相当于引入了各种微信接口的web。"><a href="#P1-小程序的开发与web开发非常相似，相当于引入了各种微信接口的web。" class="headerlink" title="P1: 小程序的开发与web开发非常相似，相当于引入了各种微信接口的web。"></a>P1: 小程序的开发与web开发非常相似，相当于引入了各种微信接口的web。</h2><p>原生小程序使用的语言：</p>
+<ol>
+<li><img src="/img/ba03912f21a9c4d7fe416e32585bbff8.png">wxml：小程序的结构布局，相当于web开发的html。</li>
+<li><img src="/img/f2c695fd70deae6e9b8912a5c545d3af.png">wxss：小程序的样式设计，相当于css。</li>
+<li><img src="/img/6adf16ce8bce85152a9bc534eddc2f6e.png">js：JavaScript，用于编写界面的逻辑。</li>
+<li><img src="/img/2117e047628b03f88494997245b3a1b5.png">json：用于配置文件</li>
+</ol>
+<p>这四种文件构成了小程序的一个页面，是小程序前端的基本结构。</p>
+<h2 id="P2-补充"><a href="#P2-补充" class="headerlink" title="P2: 补充"></a>P2: 补充</h2><p>另外，也可以使用<img src="/img/422232584f23df64ca674f0a3f8b7455.png">vue3（一款用于构建用户界面的 JavaScript 框架）配合uni-app（一个使用Vue.js开发所有前端应用的框架）更加方便地开发小程序。</p>
+]]></content>
       <tags>
-        <tag>OC</tag>
-        <tag>归档</tag>
+        <tag>测试</tag>
       </tags>
   </entry>
   <entry>
@@ -359,26 +379,6 @@
         <tag>hexo</tag>
         <tag>next</tag>
         <tag>博客</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>测试文章</title>
-    <url>/2023/12/27/9daba997/</url>
-    <content><![CDATA[<p>这是一篇测试文章</p>
-<hr>
- <span id="more"></span>
-<h1 id="小程序前端开发"><a href="#小程序前端开发" class="headerlink" title="小程序前端开发"></a>小程序前端开发</h1><h2 id="P1-小程序的开发与web开发非常相似，相当于引入了各种微信接口的web。"><a href="#P1-小程序的开发与web开发非常相似，相当于引入了各种微信接口的web。" class="headerlink" title="P1: 小程序的开发与web开发非常相似，相当于引入了各种微信接口的web。"></a>P1: 小程序的开发与web开发非常相似，相当于引入了各种微信接口的web。</h2><p>原生小程序使用的语言：</p>
-<ol>
-<li><img src="/img/ba03912f21a9c4d7fe416e32585bbff8.png">wxml：小程序的结构布局，相当于web开发的html。</li>
-<li><img src="/img/f2c695fd70deae6e9b8912a5c545d3af.png">wxss：小程序的样式设计，相当于css。</li>
-<li><img src="/img/6adf16ce8bce85152a9bc534eddc2f6e.png">js：JavaScript，用于编写界面的逻辑。</li>
-<li><img src="/img/2117e047628b03f88494997245b3a1b5.png">json：用于配置文件</li>
-</ol>
-<p>这四种文件构成了小程序的一个页面，是小程序前端的基本结构。</p>
-<h2 id="P2-补充"><a href="#P2-补充" class="headerlink" title="P2: 补充"></a>P2: 补充</h2><p>另外，也可以使用<img src="/img/422232584f23df64ca674f0a3f8b7455.png">vue3（一款用于构建用户界面的 JavaScript 框架）配合uni-app（一个使用Vue.js开发所有前端应用的框架）更加方便地开发小程序。</p>
-]]></content>
-      <tags>
-        <tag>测试</tag>
       </tags>
   </entry>
 </search>
