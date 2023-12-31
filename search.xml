@@ -76,45 +76,8 @@
         <category>OC</category>
       </categories>
       <tags>
-        <tag>OC,归档</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>Hello World</title>
-    <url>/2023/12/26/4a17b156/</url>
-    <content><![CDATA[<hr>
-<span id="more"></span>
-<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
-<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p>
-<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p>
-<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p>
-<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
-]]></content>
-  </entry>
-  <entry>
-    <title>测试文章</title>
-    <url>/2023/12/27/9daba997/</url>
-    <content><![CDATA[<p>这是一篇测试文章<br> <span id="more"></span></p>
-<h1 id="小程序前端开发"><a href="#小程序前端开发" class="headerlink" title="小程序前端开发"></a>小程序前端开发</h1><h2 id="P1-小程序的开发与web开发非常相似，相当于引入了各种微信接口的web。"><a href="#P1-小程序的开发与web开发非常相似，相当于引入了各种微信接口的web。" class="headerlink" title="P1: 小程序的开发与web开发非常相似，相当于引入了各种微信接口的web。"></a>P1: 小程序的开发与web开发非常相似，相当于引入了各种微信接口的web。</h2><p>原生小程序使用的语言：</p>
-<ol>
-<li><img src="/img/ba03912f21a9c4d7fe416e32585bbff8.png">wxml：小程序的结构布局，相当于web开发的html。</li>
-<li><img src="/img/f2c695fd70deae6e9b8912a5c545d3af.png">wxss：小程序的样式设计，相当于css。</li>
-<li><img src="/img/6adf16ce8bce85152a9bc534eddc2f6e.png">js：JavaScript，用于编写界面的逻辑。</li>
-<li><img src="/img/2117e047628b03f88494997245b3a1b5.png">json：用于配置文件</li>
-</ol>
-<p>这四种文件构成了小程序的一个页面，是小程序前端的基本结构。</p>
-<h2 id="P2-补充"><a href="#P2-补充" class="headerlink" title="P2: 补充"></a>P2: 补充</h2><p>另外，也可以使用<img src="/img/422232584f23df64ca674f0a3f8b7455.png">vue3（一款用于构建用户界面的 JavaScript 框架）配合uni-app（一个使用Vue.js开发所有前端应用的框架）更加方便地开发小程序。</p>
-]]></content>
-      <tags>
-        <tag>测试</tag>
+        <tag>OC</tag>
+        <tag>归档</tag>
       </tags>
   </entry>
   <entry>
@@ -290,7 +253,46 @@
         <category>OC</category>
       </categories>
       <tags>
-        <tag>OC,归档</tag>
+        <tag>OC</tag>
+        <tag>归档</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Hello World</title>
+    <url>/2023/12/26/4a17b156/</url>
+    <content><![CDATA[<hr>
+<span id="more"></span>
+<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
+<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p>
+<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p>
+<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p>
+<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
+]]></content>
+  </entry>
+  <entry>
+    <title>测试文章</title>
+    <url>/2023/12/27/9daba997/</url>
+    <content><![CDATA[<p>这是一篇测试文章<br> <span id="more"></span></p>
+<h1 id="小程序前端开发"><a href="#小程序前端开发" class="headerlink" title="小程序前端开发"></a>小程序前端开发</h1><h2 id="P1-小程序的开发与web开发非常相似，相当于引入了各种微信接口的web。"><a href="#P1-小程序的开发与web开发非常相似，相当于引入了各种微信接口的web。" class="headerlink" title="P1: 小程序的开发与web开发非常相似，相当于引入了各种微信接口的web。"></a>P1: 小程序的开发与web开发非常相似，相当于引入了各种微信接口的web。</h2><p>原生小程序使用的语言：</p>
+<ol>
+<li><img src="/img/ba03912f21a9c4d7fe416e32585bbff8.png">wxml：小程序的结构布局，相当于web开发的html。</li>
+<li><img src="/img/f2c695fd70deae6e9b8912a5c545d3af.png">wxss：小程序的样式设计，相当于css。</li>
+<li><img src="/img/6adf16ce8bce85152a9bc534eddc2f6e.png">js：JavaScript，用于编写界面的逻辑。</li>
+<li><img src="/img/2117e047628b03f88494997245b3a1b5.png">json：用于配置文件</li>
+</ol>
+<p>这四种文件构成了小程序的一个页面，是小程序前端的基本结构。</p>
+<h2 id="P2-补充"><a href="#P2-补充" class="headerlink" title="P2: 补充"></a>P2: 补充</h2><p>另外，也可以使用<img src="/img/422232584f23df64ca674f0a3f8b7455.png">vue3（一款用于构建用户界面的 JavaScript 框架）配合uni-app（一个使用Vue.js开发所有前端应用的框架）更加方便地开发小程序。</p>
+]]></content>
+      <tags>
+        <tag>测试</tag>
       </tags>
   </entry>
 </search>
