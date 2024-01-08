@@ -1198,7 +1198,7 @@ pre .javascript .function {
 }
 .links-of-author a::before,
 .links-of-author span.exturl::before {
-  background: #f5ff39;
+  background: #425dc9;
   border-radius: 50%;
   content: ' ';
   display: inline-block;
@@ -2730,7 +2730,7 @@ body {
   opacity: 0.95;
 }
 .comments {
-  background: rgba(255,255,255,0.9);
+  background: rgba(255,255,255,0.95);
 }
 /* 阅读全文按钮颜色 */
 .btn {
