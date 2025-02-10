@@ -82,6 +82,106 @@
       </tags>
   </entry>
   <entry>
+    <title>Xine</title>
+    <url>/posts/ae5ddb00/</url>
+    <content><![CDATA[<h1 id="Xine-and-Chi’s-Story"><a href="#Xine-and-Chi’s-Story" class="headerlink" title="Xine and Chi’s Story"></a><em><strong><center>Xine and Chi’s Story</center></strong></em></h1><hr>
+<span id="more"></span>
+
+<blockquote>
+<p>2022.4.14</p>
+</blockquote>
+<h2 id="序"><a href="#序" class="headerlink" title="序"></a><center>序</center></h2><p>于梦境中,又一次回到了这里。</p>
+<p>森林还是草原?只知道有一片片翻滚的绿色浪涛。或许是海洋也说不定。山丘上,风一直在吹着。或许是呼呼的声音,或许是沙沙的声音,在耳边飞过。云在靛蓝亦或是粉蓝的空中,无规律地变化着它的形状,但它们始经以同心圆的外表包围着中心的光球。太阳?应该是这么称呼的。</p>
+<p>抬头仰视,甚至看得见日珥的喷发。但并不刺眼,只是感受到了它的温暖。不能从它身上移开视线———眼睛被牢牢吸引住了。</p>
+<p>奇怪的感觉。天上的那个东西既熟悉又陌生。温暖一如既往,又却被疏远了。甚至灼热了起来。绿它的浪涛成为枯黄的浪涛。然后成为火的浪涛。身体没有痛苦,但不知为何流下了眼泪。眼泪也很快沸腾起来不见了。</p>
+<p>火海褪去,是一片焦土。一眨眼,眼前分明出现了直插天穹的森林。在墨绿与漆黑下,本右看不到太阳的。然而它不会时宜地出现了。直射着眼球。</p>
+<p>为什么。它的光芒更亮了。本能似地我向它伸出手。</p>
+<hr>
+<blockquote>
+<p>古早黑历史归档，如有错误纯属正常。<br>文笔幼稚，请友善评论，还请不要嘲笑😭</p>
+</blockquote>
+<!--
+
+---
+
+## Ewist
+
+> 第一次,或许是偶然；第二次,你也可以说是巧合；第三次,就不是了啊。第四次五次,已然是命中注定了。
+
+蝉在树杈上不停地嘶叫。只有在树荫上望着背着太阳的蓝天,才能从这热辐射中暂时逃脱一下。很有一些平凡普通的故事,是从一个平凡的夏日开始的。
+
+一群吵吵嚷嚷的男学生走了过来。
+热死了——”其中一位故作佝偻状,仿佛垂死一般。
+“是国外的Greenhouse学说么——不至于罢……另一位推了推因出汗而滑下来的眼镜。
+“唉,衣服脏了。”一位手中的雪糕化掉滴在衬衫上了。
+“螭的衣服上……又白又粘……”一位笑着说。
+“哈哈哈……”大家都笑了起来。
+“去那边菱山上怎么样?山上有个菱湖。而且树也多。肯定比这凉快。”被称作“螭”的男孩转移了一下话题。
+“可是听长辈说菱山上很危险。”
+“笑话,哪座山不危险?”说。
+
+---
+
+听到这,月忍不住插了一句:“不危险。”
+川阳敦促着被打断的友人继续讲。川阳姐妹本是打算乘船去看烟花,顺便拜访朋友。然而在烟花的五彩光芒映村下,友人为她们讲述着一个传说——友人是这么说的。这实在是巨大的意外之得,比烟花还吸引着川阳与月海。
+没人转过头去,侧脸映着空中烟花的闪烁。“那么,我继续了。”
+
+---
+
+男学生们于是到达了菱湖边上。
+“好凉快啊!不进去就已经能感觉到了。”
+
+-->]]></content>
+      <categories>
+        <category>OC</category>
+        <category>Xine</category>
+      </categories>
+      <tags>
+        <tag>OC</tag>
+        <tag>归档</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>测试文章</title>
+    <url>/posts/9daba997/</url>
+    <content><![CDATA[<p>这是一篇测试文章</p>
+<hr>
+ <span id="more"></span>
+<h1 id="小程序前端开发"><a href="#小程序前端开发" class="headerlink" title="小程序前端开发"></a>小程序前端开发</h1><h2 id="P1-小程序的开发与web开发非常相似，相当于引入了各种微信接口的web。"><a href="#P1-小程序的开发与web开发非常相似，相当于引入了各种微信接口的web。" class="headerlink" title="P1: 小程序的开发与web开发非常相似，相当于引入了各种微信接口的web。"></a>P1: 小程序的开发与web开发非常相似，相当于引入了各种微信接口的web。</h2><p>原生小程序使用的语言：</p>
+<ol>
+<li><img src="/img/ba03912f21a9c4d7fe416e32585bbff8.png">wxml：小程序的结构布局，相当于web开发的html。</li>
+<li><img src="/img/f2c695fd70deae6e9b8912a5c545d3af.png">wxss：小程序的样式设计，相当于css。</li>
+<li><img src="/img/6adf16ce8bce85152a9bc534eddc2f6e.png">js：JavaScript，用于编写界面的逻辑。</li>
+<li><img src="/img/2117e047628b03f88494997245b3a1b5.png">json：用于配置文件</li>
+</ol>
+<p>这四种文件构成了小程序的一个页面，是小程序前端的基本结构。</p>
+<h2 id="P2-补充"><a href="#P2-补充" class="headerlink" title="P2: 补充"></a>P2: 补充</h2><p>另外，也可以使用<img src="/img/422232584f23df64ca674f0a3f8b7455.png">vue3（一款用于构建用户界面的 JavaScript 框架）配合uni-app（一个使用Vue.js开发所有前端应用的框架）更加方便地开发小程序。</p>
+]]></content>
+      <tags>
+        <tag>测试</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Hello World</title>
+    <url>/posts/4a17b156/</url>
+    <content><![CDATA[<hr>
+<span id="more"></span>
+<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
+<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p>
+<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p>
+<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p>
+<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
+]]></content>
+  </entry>
+  <entry>
     <title>Avalon</title>
     <url>/posts/896cf410/</url>
     <content><![CDATA[<blockquote>
@@ -259,103 +359,26 @@
       </tags>
   </entry>
   <entry>
-    <title>Hello World</title>
-    <url>/posts/4a17b156/</url>
+    <title>给hexo-next博客添加石蒜摇摇乐</title>
+    <url>/posts/6278a848/</url>
     <content><![CDATA[<hr>
 <span id="more"></span>
-<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
-<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
 
-<p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p>
-<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
+<p>在\themes\next\ _config.yml中将以下的footer条目取消注释</p>
+<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">custom_file_path:</span><br><span class="line">    footer: <span class="built_in">source</span>/_data/footer.swig</span><br></pre></td></tr></table></figure>
 
-<p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p>
-<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
+<p>然后在\source\ _data\footer.swig文件（没有则新建）中粘贴以下内容<br>（代码来源：<a href="https://github.com/itorr/sakana">https://github.com/itorr/sakana</a>）</p>
+<figure class="highlight xml"><table><tr><td class="code"><pre><span class="line"><span class="tag">&lt;<span class="name">meta</span> <span class="attr">name</span>=<span class="string">&quot;viewport&quot;</span> <span class="attr">content</span>=<span class="string">&quot;width=device-width&quot;</span>&gt;</span></span><br><span class="line"><span class="tag">&lt;<span class="name">style</span>&gt;</span><span class="language-css"></span></span><br><span class="line"><span class="language-css"></span></span><br><span class="line"><span class="language-css"><span class="selector-tag">html</span> <span class="selector-class">.sakana-box</span>&#123;</span></span><br><span class="line"><span class="language-css">  <span class="attribute">position</span>: fixed;</span></span><br><span class="line"><span class="language-css">  <span class="attribute">right</span>: <span class="number">0</span>;</span></span><br><span class="line"><span class="language-css">  <span class="attribute">bottom</span>: <span class="number">0</span>;</span></span><br><span class="line"><span class="language-css">  </span></span><br><span class="line"><span class="language-css">  <span class="attribute">transform-origin</span>: <span class="number">100%</span> <span class="number">100%</span>; <span class="comment">/* 从右下开始变换 */</span></span></span><br><span class="line"><span class="language-css">&#125;</span></span><br><span class="line"><span class="language-css"></span><span class="tag">&lt;/<span class="name">style</span>&gt;</span></span><br><span class="line"></span><br><span class="line"><span class="tag">&lt;<span class="name">div</span> <span class="attr">class</span>=<span class="string">&quot;sakana-box&quot;</span>&gt;</span><span class="tag">&lt;/<span class="name">div</span>&gt;</span></span><br><span class="line"></span><br><span class="line"><span class="tag">&lt;<span class="name">script</span> <span class="attr">src</span>=<span class="string">&quot;https://cdn.jsdelivr.net/npm/sakana@1.0.8&quot;</span>&gt;</span><span class="tag">&lt;/<span class="name">script</span>&gt;</span></span><br><span class="line"><span class="tag">&lt;<span class="name">script</span>&gt;</span><span class="language-javascript"></span></span><br><span class="line"><span class="language-javascript"><span class="comment">// 取消静音</span></span></span><br><span class="line"><span class="language-javascript"><span class="title class_">Sakana</span>.<span class="title function_">setMute</span>(<span class="literal">false</span>);</span></span><br><span class="line"><span class="language-javascript"></span></span><br><span class="line"><span class="language-javascript"><span class="comment">// 启动</span></span></span><br><span class="line"><span class="language-javascript"><span class="title class_">Sakana</span>.<span class="title function_">init</span>(&#123;</span></span><br><span class="line"><span class="language-javascript">  <span class="attr">el</span>:         <span class="string">&#x27;.sakana-box&#x27;</span>,     <span class="comment">// 启动元素 node 或 选择器</span></span></span><br><span class="line"><span class="language-javascript">  <span class="attr">scale</span>:      <span class="number">.5</span>,                <span class="comment">// 缩放倍数</span></span></span><br><span class="line"><span class="language-javascript">  <span class="attr">canSwitchCharacter</span>: <span class="literal">true</span>,      <span class="comment">// 允许换角色</span></span></span><br><span class="line"><span class="language-javascript">&#125;);</span></span><br><span class="line"><span class="language-javascript"></span><span class="tag">&lt;/<span class="name">script</span>&gt;</span></span><br></pre></td></tr></table></figure>
 
-<p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p>
-<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
+<p><code>hexo clean &amp;&amp; hexo g &amp;&amp; hexo s</code>之后就可以愉快地玩摇摇乐了~</p>
 ]]></content>
-  </entry>
-  <entry>
-    <title>Xine</title>
-    <url>/posts/ae5ddb00/</url>
-    <content><![CDATA[<h1 id="Xine-and-Chi’s-Story"><a href="#Xine-and-Chi’s-Story" class="headerlink" title="Xine and Chi’s Story"></a><em><strong><center>Xine and Chi’s Story</center></strong></em></h1><hr>
-<span id="more"></span>
-
-<blockquote>
-<p>2022.4.14</p>
-</blockquote>
-<h2 id="序"><a href="#序" class="headerlink" title="序"></a><center>序</center></h2><p>于梦境中,又一次回到了这里。</p>
-<p>森林还是草原?只知道有一片片翻滚的绿色浪涛。或许是海洋也说不定。山丘上,风一直在吹着。或许是呼呼的声音,或许是沙沙的声音,在耳边飞过。云在靛蓝亦或是粉蓝的空中,无规律地变化着它的形状,但它们始经以同心圆的外表包围着中心的光球。太阳?应该是这么称呼的。</p>
-<p>抬头仰视,甚至看得见日珥的喷发。但并不刺眼,只是感受到了它的温暖。不能从它身上移开视线———眼睛被牢牢吸引住了。</p>
-<p>奇怪的感觉。天上的那个东西既熟悉又陌生。温暖一如既往,又却被疏远了。甚至灼热了起来。绿它的浪涛成为枯黄的浪涛。然后成为火的浪涛。身体没有痛苦,但不知为何流下了眼泪。眼泪也很快沸腾起来不见了。</p>
-<p>火海褪去,是一片焦土。一眨眼,眼前分明出现了直插天穹的森林。在墨绿与漆黑下,本右看不到太阳的。然而它不会时宜地出现了。直射着眼球。</p>
-<p>为什么。它的光芒更亮了。本能似地我向它伸出手。</p>
-<hr>
-<blockquote>
-<p>古早黑历史归档，如有错误纯属正常。<br>文笔幼稚，请友善评论，还请不要嘲笑😭</p>
-</blockquote>
-<!--
-
----
-
-## Ewist
-
-> 第一次,或许是偶然；第二次,你也可以说是巧合；第三次,就不是了啊。第四次五次,已然是命中注定了。
-
-蝉在树杈上不停地嘶叫。只有在树荫上望着背着太阳的蓝天,才能从这热辐射中暂时逃脱一下。很有一些平凡普通的故事,是从一个平凡的夏日开始的。
-
-一群吵吵嚷嚷的男学生走了过来。
-热死了——”其中一位故作佝偻状,仿佛垂死一般。
-“是国外的Greenhouse学说么——不至于罢……另一位推了推因出汗而滑下来的眼镜。
-“唉,衣服脏了。”一位手中的雪糕化掉滴在衬衫上了。
-“螭的衣服上……又白又粘……”一位笑着说。
-“哈哈哈……”大家都笑了起来。
-“去那边菱山上怎么样?山上有个菱湖。而且树也多。肯定比这凉快。”被称作“螭”的男孩转移了一下话题。
-“可是听长辈说菱山上很危险。”
-“笑话,哪座山不危险?”说。
-
----
-
-听到这,月忍不住插了一句:“不危险。”
-川阳敦促着被打断的友人继续讲。川阳姐妹本是打算乘船去看烟花,顺便拜访朋友。然而在烟花的五彩光芒映村下,友人为她们讲述着一个传说——友人是这么说的。这实在是巨大的意外之得,比烟花还吸引着川阳与月海。
-没人转过头去,侧脸映着空中烟花的闪烁。“那么,我继续了。”
-
----
-
-男学生们于是到达了菱湖边上。
-“好凉快啊!不进去就已经能感觉到了。”
-
--->]]></content>
       <categories>
-        <category>OC</category>
-        <category>Xine</category>
+        <category>技术</category>
       </categories>
       <tags>
-        <tag>OC</tag>
-        <tag>归档</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>测试文章</title>
-    <url>/posts/9daba997/</url>
-    <content><![CDATA[<p>这是一篇测试文章</p>
-<hr>
- <span id="more"></span>
-<h1 id="小程序前端开发"><a href="#小程序前端开发" class="headerlink" title="小程序前端开发"></a>小程序前端开发</h1><h2 id="P1-小程序的开发与web开发非常相似，相当于引入了各种微信接口的web。"><a href="#P1-小程序的开发与web开发非常相似，相当于引入了各种微信接口的web。" class="headerlink" title="P1: 小程序的开发与web开发非常相似，相当于引入了各种微信接口的web。"></a>P1: 小程序的开发与web开发非常相似，相当于引入了各种微信接口的web。</h2><p>原生小程序使用的语言：</p>
-<ol>
-<li><img src="/img/ba03912f21a9c4d7fe416e32585bbff8.png">wxml：小程序的结构布局，相当于web开发的html。</li>
-<li><img src="/img/f2c695fd70deae6e9b8912a5c545d3af.png">wxss：小程序的样式设计，相当于css。</li>
-<li><img src="/img/6adf16ce8bce85152a9bc534eddc2f6e.png">js：JavaScript，用于编写界面的逻辑。</li>
-<li><img src="/img/2117e047628b03f88494997245b3a1b5.png">json：用于配置文件</li>
-</ol>
-<p>这四种文件构成了小程序的一个页面，是小程序前端的基本结构。</p>
-<h2 id="P2-补充"><a href="#P2-补充" class="headerlink" title="P2: 补充"></a>P2: 补充</h2><p>另外，也可以使用<img src="/img/422232584f23df64ca674f0a3f8b7455.png">vue3（一款用于构建用户界面的 JavaScript 框架）配合uni-app（一个使用Vue.js开发所有前端应用的框架）更加方便地开发小程序。</p>
-]]></content>
-      <tags>
-        <tag>测试</tag>
+        <tag>hexo</tag>
+        <tag>next</tag>
+        <tag>博客</tag>
       </tags>
   </entry>
   <entry>
@@ -386,26 +409,26 @@
       </categories>
   </entry>
   <entry>
-    <title>给hexo-next博客添加石蒜摇摇乐</title>
-    <url>/posts/6278a848/</url>
+    <title>小作文之《吹响！上低音号》</title>
+    <url>/posts/47716416/</url>
     <content><![CDATA[<hr>
 <span id="more"></span>
 
-<p>在\themes\next\ _config.yml中将以下的footer条目取消注释</p>
-<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">custom_file_path:</span><br><span class="line">    footer: <span class="built_in">source</span>/_data/footer.swig</span><br></pre></td></tr></table></figure>
-
-<p>然后在\source\ _data\footer.swig文件（没有则新建）中粘贴以下内容<br>（代码来源：<a href="https://github.com/itorr/sakana">https://github.com/itorr/sakana</a>）</p>
-<figure class="highlight xml"><table><tr><td class="code"><pre><span class="line"><span class="tag">&lt;<span class="name">meta</span> <span class="attr">name</span>=<span class="string">&quot;viewport&quot;</span> <span class="attr">content</span>=<span class="string">&quot;width=device-width&quot;</span>&gt;</span></span><br><span class="line"><span class="tag">&lt;<span class="name">style</span>&gt;</span><span class="language-css"></span></span><br><span class="line"><span class="language-css"></span></span><br><span class="line"><span class="language-css"><span class="selector-tag">html</span> <span class="selector-class">.sakana-box</span>&#123;</span></span><br><span class="line"><span class="language-css">  <span class="attribute">position</span>: fixed;</span></span><br><span class="line"><span class="language-css">  <span class="attribute">right</span>: <span class="number">0</span>;</span></span><br><span class="line"><span class="language-css">  <span class="attribute">bottom</span>: <span class="number">0</span>;</span></span><br><span class="line"><span class="language-css">  </span></span><br><span class="line"><span class="language-css">  <span class="attribute">transform-origin</span>: <span class="number">100%</span> <span class="number">100%</span>; <span class="comment">/* 从右下开始变换 */</span></span></span><br><span class="line"><span class="language-css">&#125;</span></span><br><span class="line"><span class="language-css"></span><span class="tag">&lt;/<span class="name">style</span>&gt;</span></span><br><span class="line"></span><br><span class="line"><span class="tag">&lt;<span class="name">div</span> <span class="attr">class</span>=<span class="string">&quot;sakana-box&quot;</span>&gt;</span><span class="tag">&lt;/<span class="name">div</span>&gt;</span></span><br><span class="line"></span><br><span class="line"><span class="tag">&lt;<span class="name">script</span> <span class="attr">src</span>=<span class="string">&quot;https://cdn.jsdelivr.net/npm/sakana@1.0.8&quot;</span>&gt;</span><span class="tag">&lt;/<span class="name">script</span>&gt;</span></span><br><span class="line"><span class="tag">&lt;<span class="name">script</span>&gt;</span><span class="language-javascript"></span></span><br><span class="line"><span class="language-javascript"><span class="comment">// 取消静音</span></span></span><br><span class="line"><span class="language-javascript"><span class="title class_">Sakana</span>.<span class="title function_">setMute</span>(<span class="literal">false</span>);</span></span><br><span class="line"><span class="language-javascript"></span></span><br><span class="line"><span class="language-javascript"><span class="comment">// 启动</span></span></span><br><span class="line"><span class="language-javascript"><span class="title class_">Sakana</span>.<span class="title function_">init</span>(&#123;</span></span><br><span class="line"><span class="language-javascript">  <span class="attr">el</span>:         <span class="string">&#x27;.sakana-box&#x27;</span>,     <span class="comment">// 启动元素 node 或 选择器</span></span></span><br><span class="line"><span class="language-javascript">  <span class="attr">scale</span>:      <span class="number">.5</span>,                <span class="comment">// 缩放倍数</span></span></span><br><span class="line"><span class="language-javascript">  <span class="attr">canSwitchCharacter</span>: <span class="literal">true</span>,      <span class="comment">// 允许换角色</span></span></span><br><span class="line"><span class="language-javascript">&#125;);</span></span><br><span class="line"><span class="language-javascript"></span><span class="tag">&lt;/<span class="name">script</span>&gt;</span></span><br></pre></td></tr></table></figure>
-
-<p><code>hexo clean &amp;&amp; hexo g &amp;&amp; hexo s</code>之后就可以愉快地玩摇摇乐了~</p>
+<p>好久没有看到这么惊艳的作品了。Bangumi上本作的高评分是名副其实的。</p>
+<p>本作对于高中时期的少年少女（主要是少女）心理描写极其细致，让人会心一笑的地方更是数不胜数。久美子和丽奈的互动可以说是本作的一大亮点，值得玩味。有一种把人变成蛆的魔力。</p>
+<p>本作的人物形象刻画都很饱满。尤其是主角黄前久美子，她的“性格が悪い”通过亲情、友情（或许有一点爱情），</p>
+<p>北宇治高中吹奏部的奋斗故事是本作贯穿始终的主线。</p>
+<blockquote>
+<p><strong>2024-10-05 更新</strong></p>
+</blockquote>
+<p>这篇文章当时没有写完，也忘记了，今天才发现。京吹的第三季烂尾了。实际上，京吹从剧场版乃至第二季开始就变味了，不再是那个青春的吹奏部了。我也不准备把这篇文章补全了。就这样吧。</p>
 ]]></content>
       <categories>
-        <category>技术</category>
+        <category>小作文</category>
       </categories>
       <tags>
-        <tag>hexo</tag>
-        <tag>next</tag>
-        <tag>博客</tag>
+        <tag>小作文</tag>
+        <tag>二次元</tag>
       </tags>
   </entry>
   <entry>
@@ -708,26 +731,49 @@ Y 坐标, 从: <input id="ymin" name="ymin" value="-1" size="10" type="text">
 ]]></content>
   </entry>
   <entry>
-    <title>小作文之《吹响！上低音号》</title>
-    <url>/posts/47716416/</url>
+    <title>使用NapCat与FloraBot部署对接DeepSeek的QQ聊天机器人（老婆）</title>
+    <url>/posts/8bfef174/</url>
     <content><![CDATA[<hr>
 <span id="more"></span>
 
-<p>好久没有看到这么惊艳的作品了。Bangumi上本作的高评分是名副其实的。</p>
-<p>本作对于高中时期的少年少女（主要是少女）心理描写极其细致，让人会心一笑的地方更是数不胜数。久美子和丽奈的互动可以说是本作的一大亮点，值得玩味。有一种把人变成蛆的魔力。</p>
-<p>本作的人物形象刻画都很饱满。尤其是主角黄前久美子，她的“性格が悪い”通过亲情、友情（或许有一点爱情），</p>
-<p>北宇治高中吹奏部的奋斗故事是本作贯穿始终的主线。</p>
-<blockquote>
-<p><strong>2024-10-05 更新</strong></p>
-</blockquote>
-<p>这篇文章当时没有写完，也忘记了，今天才发现。京吹的第三季烂尾了。实际上，京吹从剧场版乃至第二季开始就变味了，不再是那个青春的吹奏部了。我也不准备把这篇文章补全了。就这样吧。</p>
+<h2 id="介绍"><a href="#介绍" class="headerlink" title="介绍"></a>介绍</h2><p>本文用到的开源项目：</p>
+<p><a href="https://github.com/NapNeko/NapCatQQ">NapNeko&#x2F;NapCatQQ: 现代化的基于 NTQQ 的 Bot 协议端实现</a></p>
+<p><a href="https://github.com/FloraBotTeam/FloraBot">FloraBotTeam&#x2F;FloraBot: 一个新的, 使用 Python 编写的支持插件的 ChatBot</a></p>
+<p><a href="https://github.com/umaru-233/My-Dream-Moments/tree/QQ-FloraBotPlugin">umaru-233&#x2F;My-Dream-Moments at QQ-FloraBotPlugin</a></p>
+<p>下面记录一下我使用这些项目，在Windows系统部署一个简单的对接DeepSeek API的QQ老婆的过程</p>
+<h2 id="流程"><a href="#流程" class="headerlink" title="流程"></a>流程</h2><p>在<a href="https://github.com/NapNeko/NapCatQQ/releases/">Releases · NapNeko&#x2F;NapCatQQ</a>下载[Win64无头]一键包。解压后运行napcat.bat，根据提示扫码登陆。</p>
+<p><img src="https://i.ibb.co/35xzZMjv/image-20250210150629365.png"></p>
+<p>之后在终端找到带有token的webui链接。建议修改默认token(密码).</p>
+<p>进入你想安装 FloraBot 的目录中, 然后运行以下命令(请使用 PowerShell 来运行):（<a href="https://github.com/FloraBotTeam/FloraBot-Installer">FloraBotTeam&#x2F;FloraBot-Installer: FloraBot 的一键安装脚本</a>）</p>
+<figure class="highlight powershell"><table><tr><td class="code"><pre><span class="line"><span class="built_in">Invoke-WebRequest</span> <span class="literal">-Uri</span> <span class="string">&quot;https://raw.githubusercontent.com/FloraBotTeam/FloraBot-Installer/main/WindowsInstaller.ps1&quot;</span> <span class="literal">-OutFile</span> <span class="string">&quot;WindowsInstaller.ps1&quot;</span>; powershell <span class="operator">-File</span> WindowsInstaller.ps1; <span class="built_in">Remove-Item</span> WindowsInstaller.ps1</span><br></pre></td></tr></table></figure>
+
+<p>如果网络不好，运行：</p>
+<figure class="highlight powershell"><table><tr><td class="code"><pre><span class="line"><span class="built_in">Invoke-WebRequest</span> <span class="literal">-Uri</span> <span class="string">&quot;https://github.moeyy.xyz/https://raw.githubusercontent.com/FloraBotTeam/FloraBot-Installer/main/WindowsInstaller.ps1&quot;</span> <span class="literal">-OutFile</span> <span class="string">&quot;WindowsInstaller.ps1&quot;</span>; powershell <span class="operator">-File</span> WindowsInstaller.ps1; <span class="built_in">Remove-Item</span> WindowsInstaller.ps1</span><br></pre></td></tr></table></figure>
+
+
+
+<p>根据提示完成后，启动脚本为 Run.bat, 运行该脚本即可启动 FloraBot。配置目录下的<code>Config.json</code>。把<code>ConnectionType</code>的值改为**<code>WebSocket</code>**,这样方便配置.在<code>BotID</code>把0换为机器人QQ号,在<code>Administrator</code>把0换为管理员QQ号,可以写多个.</p>
+<p>在<a href="https://github.com/umaru-233/My-Dream-Moments/tree/QQ-FloraBotPlugin">umaru-233&#x2F;My-Dream-Moments at QQ-FloraBotPlugin</a>点击Code - Download ZIP,解压后的插件放在Plugins目录.最后的目录结构类似:</p>
+<figure class="highlight moonscript"><table><tr><td class="code"><pre><span class="line"><span class="name">D</span>:\Apps\FloraBot\FloraBot\Plugins\My-Dream-Moments-QQ-FloraBotPlugin\Main.py...</span><br></pre></td></tr></table></figure>
+
+<p>插件目录有Plugin.json.在DeepSeekApiUrl, DeepSeekApiKey, DeepSeekModel键值对配置自己的api即可.其他配置按需要调整.</p>
+<p>回到NapCat的webui.在 网络配置 栏新建一个WebSocket客户端.默认端口和flora一样都是3003不用改动.</p>
+<p><img src="https://i.ibb.co/TB551Gk5/image.png"></p>
+<p>启动ws客户端后,重新运行florabot的Run.bat.你应该可以看见类似:</p>
+<figure class="highlight erlang"><table><tr><td class="code"><pre><span class="line">正在加载插件, 请稍后...</span><br><span class="line">正在加载插件 MyDreamMoments ...</span><br><span class="line">框架连接方式为: WebSocket</span><br><span class="line">MyDreamMoments 加载成功</span><br><span class="line">框架已通过 WebSocket 连接, 连接ID: <span class="number">1</span></span><br></pre></td></tr></table></figure>
+
+<p>这样就可以在群聊或者私聊使用命令和机器人聊天了.具体可以发送</p>
+<figure class="highlight"><table><tr><td class="code"><pre><span class="line">/帮助</span><br><span class="line">/帮助 MyDreamMoments</span><br></pre></td></tr></table></figure>
+
+<p>查看. 群聊内也可以使用@进行聊天.</p>
+<p>目前qq插件尚不完善,本文仅供学习参考~</p>
 ]]></content>
       <categories>
-        <category>小作文</category>
+        <category>技术</category>
       </categories>
       <tags>
-        <tag>小作文</tag>
-        <tag>二次元</tag>
+        <tag>QQ</tag>
+        <tag>Bot</tag>
       </tags>
   </entry>
   <entry>
