@@ -142,26 +142,6 @@
       </tags>
   </entry>
   <entry>
-    <title>测试文章</title>
-    <url>/posts/9daba997/</url>
-    <content><![CDATA[<p>这是一篇测试文章</p>
-<hr>
- <span id="more"></span>
-<h1 id="小程序前端开发"><a href="#小程序前端开发" class="headerlink" title="小程序前端开发"></a>小程序前端开发</h1><h2 id="P1-小程序的开发与web开发非常相似，相当于引入了各种微信接口的web。"><a href="#P1-小程序的开发与web开发非常相似，相当于引入了各种微信接口的web。" class="headerlink" title="P1: 小程序的开发与web开发非常相似，相当于引入了各种微信接口的web。"></a>P1: 小程序的开发与web开发非常相似，相当于引入了各种微信接口的web。</h2><p>原生小程序使用的语言：</p>
-<ol>
-<li><img src="/img/ba03912f21a9c4d7fe416e32585bbff8.png">wxml：小程序的结构布局，相当于web开发的html。</li>
-<li><img src="/img/f2c695fd70deae6e9b8912a5c545d3af.png">wxss：小程序的样式设计，相当于css。</li>
-<li><img src="/img/6adf16ce8bce85152a9bc534eddc2f6e.png">js：JavaScript，用于编写界面的逻辑。</li>
-<li><img src="/img/2117e047628b03f88494997245b3a1b5.png">json：用于配置文件</li>
-</ol>
-<p>这四种文件构成了小程序的一个页面，是小程序前端的基本结构。</p>
-<h2 id="P2-补充"><a href="#P2-补充" class="headerlink" title="P2: 补充"></a>P2: 补充</h2><p>另外，也可以使用<img src="/img/422232584f23df64ca674f0a3f8b7455.png">vue3（一款用于构建用户界面的 JavaScript 框架）配合uni-app（一个使用Vue.js开发所有前端应用的框架）更加方便地开发小程序。</p>
-]]></content>
-      <tags>
-        <tag>测试</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>Hello World</title>
     <url>/posts/4a17b156/</url>
     <content><![CDATA[<hr>
@@ -182,253 +162,23 @@
 ]]></content>
   </entry>
   <entry>
-    <title>Avalon</title>
-    <url>/posts/896cf410/</url>
-    <content><![CDATA[<blockquote>
-<p><em><strong><center>This is a story of Avalon.</strong></em></p>
-<p><em><strong>…and Paradise</strong></em></p>
-</blockquote>
+    <title>测试文章</title>
+    <url>/posts/9daba997/</url>
+    <content><![CDATA[<p>这是一篇测试文章</p>
 <hr>
-<span id="more"></span>
-<h1 id="1"><a href="#1" class="headerlink" title="1"></a>1</h1><p>群青色的天空——有时候更浅一些。太阳弹出来的时候,太阳掉下去的时候,它是一半橙红色的。站在山上看得很远,有的方向能看到海的。云经常是一团一团簇在一起的,看得见远处阳光在云间穿过、云在地上返住的影子与灰黑的云斜斜碎下的两侧暗一些的雨幕。运气好的话,穿过一片雨会有彩虹——双环的彩虹。如果没有回头——或者没有后视镜的话,大你是注意不到吧。</p>
-<p>不高的小丘间是连绵的草甸,常有当地人放养的斗羊或群或是星星点点地伫立着,徐分着,低出吃着草。笔直的、蜿蜒的路,出边在平原、河边、山腰上。一位少女,骑着摩托车,从路的一弯后钻了出来。</p>
-<p>少女戴着头盔,两条纸的黑色辫子在身后飘着,皮夹克、牛仔短裤、及膝长纸的组在她身上得很是干练,她要去往哪里?在她到达之前,谁也不知道。</p>
-<p>就这样在一条条路上疾驰而过,摩托的引擎声似乎给这片大地带来了新的生机。</p>
-<p>一座小镇。看来这就是少女的目的地了。小镇的道并不繁华,但很整洁,建筑物错落有致。看到街边有个小餐馆,她停下车,摘下头盔挂在车上,晃了晃头发,大步走了进去。</p>
-<p>“您好,这位客人,请问您要点什么?”一位年龄都起来比少女小一点的姑娘起了过来。</p>
-<p>“来一份这个牛肉面。”</p>
-<p>小姑娘在收银台后坐着的时看书的时候,少女突然问了一句,“这镇上有没有一个白头发的女孩儿?”</p>
-<p>小姑娘吓了一跳。除了点菜,很久没有人主动找她说过话了。</p>
-<p>“是在问我吗?”</p>
-<p>少女笑了,“除了你还有别人吗?”</p>
-<p>“那个……白头发的话,倒是有不少老头老太……”小姑娘扶了扶歪掉的眼镜,“但是白发的女孩……没有见过。”</p>
-<p>“是这地方吗?”少女垂着头,凝视着汤中前映的金黄的双瞳,自言自语着.</p>
-<p>付了款,刚跨上摩托车启动发动机,店里的小姑娘慌恍张张地跑了出来。</p>
-<p>“等……等一下!我们这的中学流传着一个传说,月圆的时候,到南边的山顶上,可以看见白色头发的……!不打扰她看月亮就没事,如果打扰了她,她就会盯上你,“你……你肯定就逃不了了。”但是,晚上山里很危险……”</p>
-<p>“哦?”少女来了兴致,”我对这边路不熟,要不你来当导游怎么样?啊,导游费我肯定会出的。”仿佛捉弄般的笑容在她脸上一闪而过。</p>
-<p>餐馆的小姑娘用怀里的书挡住涨红的脸:“这……不……真的可以吗?”</p>
-<p>金色的双眼你盯着躲闪的棕色的双眼。“看你拿的那本《宁原地理图鉴》你对这的地理很感兴趣吧?你带路肯定没问题啊。不过你可要提防着我，不定什么时候我和女鬼一块儿把你拐走了。”说完,自顾自地笑了起来。</p>
-<p>“忘了自我介绍了,我叫川阳”</p>
-<p>“我的名字是……葵…请多关……诶诶摩托车开慢一点啊!”</p>
-<p>“今天十六,错过了还要等一个月哪,如果按你传说的说法的话。”少女说着,给身后的小姑娘递了个头盔。</p>
-<p>路延伸着,在山脚前转了个弯,缘到别的地方去了.</p>
-<p>“啊啊,没有盘山路啊,只能爬山了吗。”川阳,望了望西边摇摇欲坠的太阳,脸上露出明显失望的表情。</p>
-<p>“要不,明天再……”</p>
-<p>山里的夜路,以前走惯了。”</p>
-<p>葵抬起头,惊异地发现这位不知怎的就让天也当上导游的年长的少女(或许可以叫姐姐?)的脸显出不符合她气质的温柔的神情。</p>
-<hr>
-<h1 id="2"><a href="#2" class="headerlink" title="2"></a>2</h1><blockquote>
-<p>2022.3.19</p>
-</blockquote>
-<p>川阳敏捷的身手让身后有些踉跄的姑娘感到一丝的汗意。到底谁是导游啊?这不是故意刁难人吗?”葵一边暗暗想着,一边吃力地跟上去。</p>
-<p>太阳已经沉下去了,少女给葵扔了个手电筒,自己却毫不在意地前进看。</p>
-<p>葵打开了手电筒“小心脚下啊。”</p>
-<p>“越来越近了……”前面的人小声嘀咕着,完全没把葵当回事。</p>
-<p>忽然转过头来问了一句,“你说的那个鬼,有人真的见过吗?”</p>
-<p>葵没有回答(或者说她根本没听见她说了什么),只是瞪大了眼睛盯着川阳的双眼——正在熠熠闪着金黄的光。</p>
-<p>“小葵,听见我说话了吗?”川阳把脸往前凑,几乎要顶到葵的鼻尖,把还在惊愕中的葵吓了一个趔趄。</p>
-<p>“啊…对不起……你的眼睛”</p>
-<p>川阳眨了眨眼,“哦,我走夜路不用灯。”</p>
-<p>“说正事,那个女有人真的见过吗?”</p>
-<blockquote>
-<p>2022.3.26</p>
-</blockquote>
-<p>“这……不好说。学校里大家都在传,但有胆子大的去山上看了说什么都没有。”</p>
-<p>“那被鬼盯上之类的就是以讹传讹了?”</p>
-<p>“嗯……说不清。谁来管这等事。”</p>
-<p>川阳望了望密林缝隙透过的月光“快到山顶了吗?”</p>
-<p>“快了。”</p>
-<p>虽然看不见,但葵总觉得方面的川阳的表情肯定不会有笑容。</p>
-<p>狼出现在她们面前。它的眼中闪着光,与少女不同,是杀意的光。后面也有狼。左边,右边,三只,五只,她们被包围了。</p>
-<p>“啧,你闭上眼;快。”川阳抓起葵的手,向前跑着。葵闭上眼后,眼前红了一下,从乎有很强的闪光。</p>
-<p>“睁开眼吧。不知道能拖多久,赶快往山顶跑就行了!”</p>
-<p>葵被牵着手跌跌撞撞地跑着,惊讶于川阳看起来纤细的手,居然有这么大力气。</p>
-<p>山顶意外地平坦,只有草甸和零星的树,以及不断倾酒的银白的月辉。并没有看到什么女鬼。只有一样东西很突兀——一张白色的光洁的月牙形的吊椅,安静地停在树下,像是和流转的月光融为了一体。</p>
-<p>川阳线浅地笑了一下:“这种东西,一看就知道是谁的了。别藏着了。”</p>
-<p>狼群追了上来。似乎又被某种力量所慑,在进到平地之前停了下来,一个个都坐了下来。川阳于是回转了头。果然。</p>
-<p>白色的少女静伫于无瑕的圆月之下。修长的睫毛下深邃的红宝石，孤寂地凝视着狼群，就像没有看到两人一样,静静地走到吊椅前,坐了下来。</p>
-<p>川阳张了张嘴,却被月下少女抢先了。”为什么来这里。”</p>
-<p>白色的少女声音轻得让葵以为自己幻听了。她从不知道世界上竟有这般空灵，这般缥缈，这般纯净的声音。</p>
-<p>红宝石般的眸子直勾勾盯看川阳,虽然并未让她不舒服,但是心里已经丧失了说谎的能力。</p>
-<p>川阳深吸了一口气:“你为什么来这儿?”</p>
-<p>“因为这里离月亮更近。”</p>
-<p>“我是来带你回去的。月亮不会多看你一眼的。”</p>
-<p>依葵来看,吊椅里的少女的嘴轻轻地发了一个听不见的“啧”的音。少女转过来:“这位是。”</p>
-<p>“我?我……”</p>
-<p>“是我的导游。你别想打她的主意。”</p>
-<p>葵似乎,又看见白色少女啧了一下嘴。</p>
-<p>少女清了清嗓子:“我一个人望着月亮就好了。不需要其他人。”</p>
-<p>川阳噗嗤地笑了出来,对面的少女微微蹙了蹙眉</p>
-<p>“听说山下的人可都把你当成女鬼了。”</p>
-<p>“那有何妨?早知道就不让任何一个山下的人看到我了。”</p>
-<p>“所以呢?你准备对小葵也用一用你那月亮的小把戏?”</p>
-<p>“您觉得呢。”</p>
-<p>“呦,好生客气,终于会问问姐姐的意见了,还用上敬语了,月海?”</p>
-<p>被称为“月海”的少女的眉头皱得更深了。</p>
-<p>“不管你怎么说,姐姐我不会背叛月亮。倒是你,姐姐,就这样叛了你的……</p>
-<p>“别说了。我知道了。看这样子你也不会下山了。唉……从小到大天天就知道往山上跑……</p>
-<p>“不过,让我收手有个条件。”</p>
-<p>月海轻轻歪了下头。</p>
-<p>“就是不消除小葵的记忆,让她去告诉镇上的人们,你不是鬼。就算是个鬼,也是个美女鬼。”说到这,川阳又露出了葵所见熟悉的狡黠的笑容。</p>
-<p>吊椅里的少女忽地瞪大了双眼,又急匆地让吊椅转过去,对了两人。</p>
-<p>“反正我,我是不会下山的。”</p>
-<p>姐姐双手着腰半笑半临地叹了口气:“小月啊,什么时候才能坦率一点啊…</p>
-<p>下山的时候,葵问道:“那位姐姐……为什么要待在山上?她是什么样的人?”</p>
-<p>“我带你来,正是此意。”川阳这次走在后面,望着林隙的月光,“我可要好好讲讲月海的故事了。”</p>
-<p>“为什么给我讲而不是别人?”</p>
-<p>“因为我从你的眼里看到了对阳光的渴望啊”</p>
-<p>葵回头,川阳日闪闪的双眼正笑眯眯地看着她。</p>
-<hr>
-<h1 id="3"><a href="#3" class="headerlink" title="3"></a>3</h1><p>“我说了不劝你下山,但没说我不能上山做客嘛。”</p>
-<p>月海看着一脸坏笑的姐姐,不想说什么了。但是,</p>
-<p>“你带这么多人来干什么?”月一手捂着脸,无奈地摇头。</p>
-<p>“哎,多乎哉?不多矣。才几个人?凑不够两桌麻将呢。都是自己人,别见外。”</p>
-<p>“嗯嗯,都是想认识月姐姐的同学。”葵在一旁附和。</p>
-<p>月海张开手,眯着眼透过指缝望向天空,太阳悬在正中,周围深蓝得没有一丝白云。(不能用她月的小戏法了。)</p>
-<p>“把你动不动就啧的毛病改一下吧,小心以后不到男朋友。”</p>
-<p>“啧。”</p>
-<p>传说只要来一次露天烧烤,世仇的两家也能暂时放嗯怨,这已经成了宁原的传统。川阳问葵时,葵就是如此回答的。顺便一说,为了看着月海,川阳就去葵的高中当了个(数学)老师,在山脚附近租了个房子直接住下了。</p>
-<p>“哎哎,别乱说,我和小月可没有什么世仇啊。”</p>
-<p>“关系好的朋友也会吃烧烤啊。”</p>
-<p>话虽如此,考虑到葵的人际交往能力,大抵没有关系很好的同学的。于是,川阳凭着她奇怪的宣传能力,一个星期就邀请了(认识了)好几个学生参加“山顶燃烤”(由于高中名为“宁阴县女子高中”所以邀请的都是女孩儿)。</p>
-<p>“啊，我见过这位。”月海对着其中一位来客说,“就是这位让我美名远扬了吧。”</p>
-<p>被盯着的女孩挠着头干笑了两声:“我只是和几个朋友说山上有个女生,也没想到会传成那样……我今天是特地来道歉的!”说着,眉毛竖了起来,眼神似乎更坚决了。</p>
-<p>“这是峡。”川阳拍了拍旁边刚鞠下躬的金发少女的背。</p>
-<p>“那位天蓝色(没有宁原的天蓝)头发的是霁。”被指到时少女朝这边微笑着招了招手,</p>
-<p>“那边和葵聊天的是墨砚。大概又是在谈什么小说之类的。”(少有的和葵聊得上天的。)</p>
-<p>“我认识个小姑娘,和你一样喜欢看书啊。”</p>
-<p>“谁?”</p>
-<p>“叫墨砚。和你兴趣这么相投的人你不会不认识吧?”</p>
-<p>“……”</p>
-<p>“没事没事,过几天一块山上聚会就认识了。”顺带一提,她还喜欢写小说……你连文学社都没有加?”</p>
-<p>“放学之后就来这替妈妈看着前台了。”</p>
-<p>川阳故作失望地长叹了一声,低头继续吃红烧牦牛面。</p>
-<p>川阳一行人把烧烤架、炭、盛食物的篮子布置好了。她们整到一半的时候,月海的似乎是不忍心一直在吊椅里坐着,就去帮姐姐干活了。</p>
-<p>“那么,同学们,山顶露天烧烤,开始了!”川阳举起了手中的汽水。</p>
-<p>“哦!”葵、峡、墨砚、霁一齐举起了汽水(葵高举起了果汁)</p>
-<p>“……哦……”月海也举起了果汁。(和葵一样是葡萄汁?)</p>
-<p>烧烤架里的炭红红地烧了起来,串好的肉串被整齐地或歪斜地被摆在了架子上。油滴在炭上,发出滋滋的响声,灰烟薄薄地开起来,白色的少女觉得有些呛，就后退了几步,坐在凳子上观望。</p>
-<p>峡的(九寨沟矿质池般的)青色的眼从炭烧起来的时候,就闪起来了(当然不是川阳的那种闪),一直在架子周围转圈。</p>
-<p>然后撞到了正在给串翻面的霁。“对不起对不起(吸口水),实在是……没忍在”</p>
-<p>“没事,谁让小葵家的肉这么香呢。”霁说话的时候脸上永远微笑着。</p>
-<p>第一批串烤好了。除了峡每手拿了两串,其他人都拿了一串。</p>
-<p>“慢点慢点,别噎着了。”霁轻轻拍了下峡的后背。</p>
-<p>“咕……<ruby>月霭里藏昂恶个<rt>月海你尝尝这个</rt></ruby>…”峡转向了月海(冷静地看着峡)</p>
-<p>虽然月海在姐姐来之前没有什么肉食来源,但似乎对烤肉并没有表现出特别的兴趣,除了两腮上淡淡的粉红。她也没有注意到一边在和葵、墨砚聊天边吃的川阳正在暗暗观察。</p>
-<p>川阳凑到葵耳边悄悄说:“目前来看非常顺利。”</p>
-<p>“嗯。”葵点头。</p>
-<p>“嗯?”墨砚歪头。</p>
-<p>葵凑到墨砚耳边悄悄地重复了一遍。</p>
-<p>“嗯。”墨砚也点头。</p>
-<p>炭一直忽明忽暗地烧着,少女们在烤架周围忙碌着,说笑着。筐里盘子里的肉越来越少。月海不知什么时候就被峡拉到烤架前了。筐里,盘子里的串见底了,汽水果汁也所剩无几。太阳偏到很西的位置了。</p>
-<p>“啊……撑了。”峡瘫在椅子上,长叹(嗝)了一声,绕圈揉着肚子。</p>
-<p>“你这样可不够淑女啊,峡。”霁笑道。</p>
-<p>“去他的淑女……吃饭最重要。小葵家的串太香了……小月也好香……嘿嘿嘿……香香的软软的——?”</p>
-<p>峡的面前唐突地出现了一块银白色的<ruby>圆盘<rt>月轮</rt></ruby>,清楚地反射出其流口水的表情和她嘴后站者的月海的阴沉的表情。伴随着清脆碎玉的响声,<ruby>圆盘<rt>月轮</rt></ruby>的碎片飞散,消失在空中。川阳注视着两人。</p>
-<p>月海盯着还没有缓过来的峡,问道:“你说什么?”</p>
-<p>霁急忙过来解释就“小峡她总是大大咧咧的,小月你别见怪……”</p>
-<p>月海没有理会,继续问:“你刚才说什么?”</p>
-<p>峡尴尬地笑了笑:“没想到你会魔法啊。我们学校里有几个会的,但是没你这么高级——”</p>
-<p>“别岔开话题,回答我。”</p>
-<p>“这就是宁原的法行的用来表达喜爱之情的……啊哈哈哈……只是觉得你的手和脸蛋都很软。”看见月海更阴沉了,峡才停了下来。</p>
-<p>“脸什么的……请你不要随便说。这是第二次了。”月海走向不知从哪冒出来的白色吊椅,坐了进去。</p>
-<p>“啊……我知错了。我改悔罢。”峡又鞠了一躬。</p>
-<p>川阳站了出来:“天色也不早了,大家收拾收拾吧。”随即又小声叹了口气:“还是老样子。”</p>
-<p>东西收拾得差不了。不过川阳特别提到要把烤架留在山上。”我没劲再搬下山了。”</p>
-<p>“回见,小月”川阳挥了挥手。众人也一一和月海告别。</p>
-<p>路上,川阳说:“不过,这可是小月少见地害羞了啊。”</p>
-<p>峡乏马凑了过来:“不是在生气吗?”</p>
-<p>“生气肯定有啊。你只不要接连不断地惹她生气就没事。”</p>
-<p>“下次我一定要好好跟她道歉。”</p>
-<p>“你都预备着有下次了?”墨砚问道。</p>
-<p>(霁说:“不得不说,小月真的很可爱啊。”</p>
-<p>确实。”葵答道。</p>
-<p>“比鲁巴扎特写的妮娅欧,欢还要可爱。”墨砚道。</p>
-<p>“和兮望写的<ruby>多洛莉丝<rt>玫瑰之泪</rt></ruby>不相上下。”葵道。)</p>
-<hr>
-<blockquote>
-<p>古早黑历史归档，如有错误纯属正常。<br>文笔幼稚，请友善评论，还请不要嘲笑😭</p>
-</blockquote>
+ <span id="more"></span>
+<h1 id="小程序前端开发"><a href="#小程序前端开发" class="headerlink" title="小程序前端开发"></a>小程序前端开发</h1><h2 id="P1-小程序的开发与web开发非常相似，相当于引入了各种微信接口的web。"><a href="#P1-小程序的开发与web开发非常相似，相当于引入了各种微信接口的web。" class="headerlink" title="P1: 小程序的开发与web开发非常相似，相当于引入了各种微信接口的web。"></a>P1: 小程序的开发与web开发非常相似，相当于引入了各种微信接口的web。</h2><p>原生小程序使用的语言：</p>
+<ol>
+<li><img src="/img/ba03912f21a9c4d7fe416e32585bbff8.png">wxml：小程序的结构布局，相当于web开发的html。</li>
+<li><img src="/img/f2c695fd70deae6e9b8912a5c545d3af.png">wxss：小程序的样式设计，相当于css。</li>
+<li><img src="/img/6adf16ce8bce85152a9bc534eddc2f6e.png">js：JavaScript，用于编写界面的逻辑。</li>
+<li><img src="/img/2117e047628b03f88494997245b3a1b5.png">json：用于配置文件</li>
+</ol>
+<p>这四种文件构成了小程序的一个页面，是小程序前端的基本结构。</p>
+<h2 id="P2-补充"><a href="#P2-补充" class="headerlink" title="P2: 补充"></a>P2: 补充</h2><p>另外，也可以使用<img src="/img/422232584f23df64ca674f0a3f8b7455.png">vue3（一款用于构建用户界面的 JavaScript 框架）配合uni-app（一个使用Vue.js开发所有前端应用的框架）更加方便地开发小程序。</p>
 ]]></content>
-      <categories>
-        <category>OC</category>
-      </categories>
       <tags>
-        <tag>OC</tag>
-        <tag>归档</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>给hexo-next博客添加石蒜摇摇乐</title>
-    <url>/posts/6278a848/</url>
-    <content><![CDATA[<hr>
-<span id="more"></span>
-
-<p>在\themes\next\ _config.yml中将以下的footer条目取消注释</p>
-<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">custom_file_path:</span><br><span class="line">    footer: <span class="built_in">source</span>/_data/footer.swig</span><br></pre></td></tr></table></figure>
-
-<p>然后在\source\ _data\footer.swig文件（没有则新建）中粘贴以下内容<br>（代码来源：<a href="https://github.com/itorr/sakana">https://github.com/itorr/sakana</a>）</p>
-<figure class="highlight xml"><table><tr><td class="code"><pre><span class="line"><span class="tag">&lt;<span class="name">meta</span> <span class="attr">name</span>=<span class="string">&quot;viewport&quot;</span> <span class="attr">content</span>=<span class="string">&quot;width=device-width&quot;</span>&gt;</span></span><br><span class="line"><span class="tag">&lt;<span class="name">style</span>&gt;</span><span class="language-css"></span></span><br><span class="line"><span class="language-css"></span></span><br><span class="line"><span class="language-css"><span class="selector-tag">html</span> <span class="selector-class">.sakana-box</span>&#123;</span></span><br><span class="line"><span class="language-css">  <span class="attribute">position</span>: fixed;</span></span><br><span class="line"><span class="language-css">  <span class="attribute">right</span>: <span class="number">0</span>;</span></span><br><span class="line"><span class="language-css">  <span class="attribute">bottom</span>: <span class="number">0</span>;</span></span><br><span class="line"><span class="language-css">  </span></span><br><span class="line"><span class="language-css">  <span class="attribute">transform-origin</span>: <span class="number">100%</span> <span class="number">100%</span>; <span class="comment">/* 从右下开始变换 */</span></span></span><br><span class="line"><span class="language-css">&#125;</span></span><br><span class="line"><span class="language-css"></span><span class="tag">&lt;/<span class="name">style</span>&gt;</span></span><br><span class="line"></span><br><span class="line"><span class="tag">&lt;<span class="name">div</span> <span class="attr">class</span>=<span class="string">&quot;sakana-box&quot;</span>&gt;</span><span class="tag">&lt;/<span class="name">div</span>&gt;</span></span><br><span class="line"></span><br><span class="line"><span class="tag">&lt;<span class="name">script</span> <span class="attr">src</span>=<span class="string">&quot;https://cdn.jsdelivr.net/npm/sakana@1.0.8&quot;</span>&gt;</span><span class="tag">&lt;/<span class="name">script</span>&gt;</span></span><br><span class="line"><span class="tag">&lt;<span class="name">script</span>&gt;</span><span class="language-javascript"></span></span><br><span class="line"><span class="language-javascript"><span class="comment">// 取消静音</span></span></span><br><span class="line"><span class="language-javascript"><span class="title class_">Sakana</span>.<span class="title function_">setMute</span>(<span class="literal">false</span>);</span></span><br><span class="line"><span class="language-javascript"></span></span><br><span class="line"><span class="language-javascript"><span class="comment">// 启动</span></span></span><br><span class="line"><span class="language-javascript"><span class="title class_">Sakana</span>.<span class="title function_">init</span>(&#123;</span></span><br><span class="line"><span class="language-javascript">  <span class="attr">el</span>:         <span class="string">&#x27;.sakana-box&#x27;</span>,     <span class="comment">// 启动元素 node 或 选择器</span></span></span><br><span class="line"><span class="language-javascript">  <span class="attr">scale</span>:      <span class="number">.5</span>,                <span class="comment">// 缩放倍数</span></span></span><br><span class="line"><span class="language-javascript">  <span class="attr">canSwitchCharacter</span>: <span class="literal">true</span>,      <span class="comment">// 允许换角色</span></span></span><br><span class="line"><span class="language-javascript">&#125;);</span></span><br><span class="line"><span class="language-javascript"></span><span class="tag">&lt;/<span class="name">script</span>&gt;</span></span><br></pre></td></tr></table></figure>
-
-<p><code>hexo clean &amp;&amp; hexo g &amp;&amp; hexo s</code>之后就可以愉快地玩摇摇乐了~</p>
-]]></content>
-      <categories>
-        <category>技术</category>
-      </categories>
-      <tags>
-        <tag>hexo</tag>
-        <tag>next</tag>
-        <tag>博客</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>日记2024/1/8</title>
-    <url>/posts/58e155b4/</url>
-    <content><![CDATA[<hr>
-<span id="more"></span>
-
-<blockquote>
-<p>季羡林日记 </p>
-<p>1933.2.6<br> 今天仍然拼命看书，因为明天就要考了。学期的成绩就全仗这两天挣，现在更感到考试无用与无聊。</p>
-<p>1934.3.13<br>没做什么有意义的事一一妈的，这些混蛋教授， 不但不知道自己泄气，还整天考，不是你考， 就是我考，考他娘的什么东西？</p>
-</blockquote>
-<p>我对近现代的教育历史不甚了解，但是季老那时的内卷现象应该不是很严重吧。时至今日狼多肉少的年代，考试的竞争压力大约是不减当年的。</p>
-<p>我在大学的迷茫感从何而来？不仅仅是对于未来去向的迷茫。</p>
-<p>这是我最不愿接受的境况。中学时期，我作为小镇做题家常常安慰自己：到了大学，就可以接受所谓的素质教育了，就可以学习到真正有用的技能和喜欢的知识了。然而待我真正进入了大学，却发现美好的幻梦破碎得如此突然。</p>
-<p>于是GPA变成为了悬在大学生头上的一把刀。与之伴随的，则是比中学时代变本加厉的膜拜文化。</p>
-<p>为了考试而考试。考试的确是检验学习成果的重要乃至必要方式。但是考试内容却是不一定能检验学习成果了。中学时代如此，不想大学时代更是如此……这样下去到头来学会的也只是应试能力罢了。</p>
-<p>作为一个工科学生，我尤其希望学习的是实用的理论知识和技能，而不是为了纯粹检验积分能力的复杂积分——这种式子是不会在我未来的专业用到的。    至于那些“水课”，我也不方便多说什么。</p>
-<p>我并不期待能够改变什么现实。我只希望能够学到真才实学，投身于我喜爱的领域。教育内容与工作需求的错位，令我感到十分不安。</p>
-<p>希望自己今后能多参加一点实践项目，增强自己的专业能力吧。前提是GPA还能说得过去。</p>
-<p><img src="https://wallpaper-mania.com/wp-content/uploads/2018/09/High_resolution_wallpaper_background_ID_77700779660.jpg"></p>
-<p>放一张在时钟塔读书的远坂凛。</p>
-<p>自勉</p>
-]]></content>
-      <categories>
-        <category>日记</category>
-      </categories>
-  </entry>
-  <entry>
-    <title>小作文之《吹响！上低音号》</title>
-    <url>/posts/47716416/</url>
-    <content><![CDATA[<hr>
-<span id="more"></span>
-
-<p>好久没有看到这么惊艳的作品了。Bangumi上本作的高评分是名副其实的。</p>
-<p>本作对于高中时期的少年少女（主要是少女）心理描写极其细致，让人会心一笑的地方更是数不胜数。久美子和丽奈的互动可以说是本作的一大亮点，值得玩味。有一种把人变成蛆的魔力。</p>
-<p>本作的人物形象刻画都很饱满。尤其是主角黄前久美子，她的“性格が悪い”通过亲情、友情（或许有一点爱情），</p>
-<p>北宇治高中吹奏部的奋斗故事是本作贯穿始终的主线。</p>
-<blockquote>
-<p><strong>2024-10-05 更新</strong></p>
-</blockquote>
-<p>这篇文章当时没有写完，也忘记了，今天才发现。京吹的第三季烂尾了。实际上，京吹从剧场版乃至第二季开始就变味了，不再是那个青春的吹奏部了。我也不准备把这篇文章补全了。就这样吧。</p>
-]]></content>
-      <categories>
-        <category>小作文</category>
-      </categories>
-      <tags>
-        <tag>小作文</tag>
-        <tag>二次元</tag>
+        <tag>测试</tag>
       </tags>
   </entry>
   <entry>
@@ -731,6 +481,258 @@ Y 坐标, 从: <input id="ymin" name="ymin" value="-1" size="10" type="text">
 ]]></content>
   </entry>
   <entry>
+    <title>小作文之《吹响！上低音号》</title>
+    <url>/posts/47716416/</url>
+    <content><![CDATA[<hr>
+<span id="more"></span>
+
+<p>好久没有看到这么惊艳的作品了。Bangumi上本作的高评分是名副其实的。</p>
+<p>本作对于高中时期的少年少女（主要是少女）心理描写极其细致，让人会心一笑的地方更是数不胜数。久美子和丽奈的互动可以说是本作的一大亮点，值得玩味。有一种把人变成蛆的魔力。</p>
+<p>本作的人物形象刻画都很饱满。尤其是主角黄前久美子，她的“性格が悪い”通过亲情、友情（或许有一点爱情），</p>
+<p>北宇治高中吹奏部的奋斗故事是本作贯穿始终的主线。</p>
+<blockquote>
+<p><strong>2024-10-05 更新</strong></p>
+</blockquote>
+<p>这篇文章当时没有写完，也忘记了，今天才发现。京吹的第三季烂尾了。实际上，京吹从剧场版乃至第二季开始就变味了，不再是那个青春的吹奏部了。我也不准备把这篇文章补全了。就这样吧。</p>
+]]></content>
+      <categories>
+        <category>小作文</category>
+      </categories>
+      <tags>
+        <tag>小作文</tag>
+        <tag>二次元</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>天津罪</title>
+    <url>/posts/feb64c9b/</url>
+    <content><![CDATA[<blockquote>
+<p>本篇日记配乐：<a href="https://music.163.com/song?id=404543135">ひらひら　ひらら</a></p>
+</blockquote>
+<blockquote>
+<p>剧透注意⚠️</p>
+</blockquote>
+<span id="more"></span>
+
+<p>保守估计，历时半年多，由于各种各样的原因拖到现在，终于把紫社的《天津罪》推完了。</p>
+<p>首先是客观评价，作画是紫社招牌克没得说，且本作的CG水平再上一层楼。实际上开始推这一部的直接原因就是在网上看见了萤在教室KISS男主的那张神级CG。    <img src="https://i.ibb.co/6vvgvKM/76a01e1f3643f421ba98261dfab665963d8a79cb.png" alt="CG"></p>
+<p>本作（或者说克原画的）绝大多数CG均有如此水准，属实难能可贵。（说起来，经常因为一些奇怪的原因开始推&#x2F;看一部作品，比如在<a href="https://zh.moegirl.org.cn/%E6%A8%B1%E5%B0%8F%E8%B7%AF%E9%9C%B2%E5%A8%9C">萌娘百科</a>一时兴起搜刮白毛红瞳美少女，在樱小路露娜界面听见了Luna-sama的经典名言，戳中XP于是火速下载近月少女系列）</p>
+<p>配音是一个角色的灵魂。本作的声优也相当出彩，四个女主的声线都很有区分度：萤的聪慧敏锐、古灵精怪，心的“天使般的”纯洁善良，爱的“常态冷却”，响子的敬语溢出，都得到了很好的体现。以往推的优秀作品每部也至多有一个让我印象深刻的配音，本作的四个配音不分伯仲，可以说刻画出了角色的神韵，让角色活了过来。</p>
+<p>本作的音乐基本上是galgame经典配方。不过爱的角色曲《常態冷却少女》属于出类拔萃了，曲调清冷而舒缓，道出了青梅竹马笼罩着冬天的不坦率的温柔与坚决的爱。</p>
+<p>接下来是主观环节。剧情对于恋爱的描写很优秀，恰到好处。很甜，但不至于齁到。每个角色的恋爱风格都契合形象，这应该是恋爱游戏应该达到的基本条件。对，说的就是柚子社的废萌。本作最能让人在床上扭的角色（抛去萤萤的主线剧情来说）应该就是心心了。少女的集大成者！不过说实话这方面的功劳一小半给克另一小半给声优剩下的剧本只要别ooc就可以了。</p>
+<p>关于主线剧情，没有崩，难能可贵，在没有崩的基础上讲出来了自己的新东西，非常好。但是我并不想为这一部作品写一篇抒情散文或者发病小作文，也许是它不够优秀，也许是我已经老了，失去了从前的激情和浪漫；Who cares？</p>
+<p>（另外，萤萤的True End，水无月萤的心合为一体的片段，我总是不自觉地想到Git的版本控制，甚至中途暂停去复习了半天rebase和merge，最后觉得男主应该是把所有的复制品萤和Original萤merge了，如果更严谨一些，还用到了3路递归合并，因为复制品萤的祖先有两个，过去健康的萤的身体和当时Original萤的灵魂，而Original萤也吸收了复制品萤的生命力之类的东西，至于复杂的冲突处理，就靠男主强大（？）的言灵神力量吧）</p>
+<p>总之，我永远喜欢织部心！我永远喜欢水无月萤！紫社的作品还是要多推几部，克的美少女插画简直是人类瑰宝，少看一张都是人生的遗憾。</p>
+]]></content>
+      <categories>
+        <category>小作文</category>
+      </categories>
+      <tags>
+        <tag>小作文</tag>
+        <tag>二次元</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Avalon</title>
+    <url>/posts/896cf410/</url>
+    <content><![CDATA[<blockquote>
+<p><em><strong><center>This is a story of Avalon.</strong></em></p>
+<p><em><strong>…and Paradise</strong></em></p>
+</blockquote>
+<hr>
+<span id="more"></span>
+<h1 id="1"><a href="#1" class="headerlink" title="1"></a>1</h1><p>群青色的天空——有时候更浅一些。太阳弹出来的时候,太阳掉下去的时候,它是一半橙红色的。站在山上看得很远,有的方向能看到海的。云经常是一团一团簇在一起的,看得见远处阳光在云间穿过、云在地上返住的影子与灰黑的云斜斜碎下的两侧暗一些的雨幕。运气好的话,穿过一片雨会有彩虹——双环的彩虹。如果没有回头——或者没有后视镜的话,大你是注意不到吧。</p>
+<p>不高的小丘间是连绵的草甸,常有当地人放养的斗羊或群或是星星点点地伫立着,徐分着,低出吃着草。笔直的、蜿蜒的路,出边在平原、河边、山腰上。一位少女,骑着摩托车,从路的一弯后钻了出来。</p>
+<p>少女戴着头盔,两条纸的黑色辫子在身后飘着,皮夹克、牛仔短裤、及膝长纸的组在她身上得很是干练,她要去往哪里?在她到达之前,谁也不知道。</p>
+<p>就这样在一条条路上疾驰而过,摩托的引擎声似乎给这片大地带来了新的生机。</p>
+<p>一座小镇。看来这就是少女的目的地了。小镇的道并不繁华,但很整洁,建筑物错落有致。看到街边有个小餐馆,她停下车,摘下头盔挂在车上,晃了晃头发,大步走了进去。</p>
+<p>“您好,这位客人,请问您要点什么?”一位年龄都起来比少女小一点的姑娘起了过来。</p>
+<p>“来一份这个牛肉面。”</p>
+<p>小姑娘在收银台后坐着的时看书的时候,少女突然问了一句,“这镇上有没有一个白头发的女孩儿?”</p>
+<p>小姑娘吓了一跳。除了点菜,很久没有人主动找她说过话了。</p>
+<p>“是在问我吗?”</p>
+<p>少女笑了,“除了你还有别人吗?”</p>
+<p>“那个……白头发的话,倒是有不少老头老太……”小姑娘扶了扶歪掉的眼镜,“但是白发的女孩……没有见过。”</p>
+<p>“是这地方吗?”少女垂着头,凝视着汤中前映的金黄的双瞳,自言自语着.</p>
+<p>付了款,刚跨上摩托车启动发动机,店里的小姑娘慌恍张张地跑了出来。</p>
+<p>“等……等一下!我们这的中学流传着一个传说,月圆的时候,到南边的山顶上,可以看见白色头发的……!不打扰她看月亮就没事,如果打扰了她,她就会盯上你,“你……你肯定就逃不了了。”但是,晚上山里很危险……”</p>
+<p>“哦?”少女来了兴致,”我对这边路不熟,要不你来当导游怎么样?啊,导游费我肯定会出的。”仿佛捉弄般的笑容在她脸上一闪而过。</p>
+<p>餐馆的小姑娘用怀里的书挡住涨红的脸:“这……不……真的可以吗?”</p>
+<p>金色的双眼你盯着躲闪的棕色的双眼。“看你拿的那本《宁原地理图鉴》你对这的地理很感兴趣吧?你带路肯定没问题啊。不过你可要提防着我，不定什么时候我和女鬼一块儿把你拐走了。”说完,自顾自地笑了起来。</p>
+<p>“忘了自我介绍了,我叫川阳”</p>
+<p>“我的名字是……葵…请多关……诶诶摩托车开慢一点啊!”</p>
+<p>“今天十六,错过了还要等一个月哪,如果按你传说的说法的话。”少女说着,给身后的小姑娘递了个头盔。</p>
+<p>路延伸着,在山脚前转了个弯,缘到别的地方去了.</p>
+<p>“啊啊,没有盘山路啊,只能爬山了吗。”川阳,望了望西边摇摇欲坠的太阳,脸上露出明显失望的表情。</p>
+<p>“要不,明天再……”</p>
+<p>山里的夜路,以前走惯了。”</p>
+<p>葵抬起头,惊异地发现这位不知怎的就让天也当上导游的年长的少女(或许可以叫姐姐?)的脸显出不符合她气质的温柔的神情。</p>
+<hr>
+<h1 id="2"><a href="#2" class="headerlink" title="2"></a>2</h1><blockquote>
+<p>2022.3.19</p>
+</blockquote>
+<p>川阳敏捷的身手让身后有些踉跄的姑娘感到一丝的汗意。到底谁是导游啊?这不是故意刁难人吗?”葵一边暗暗想着,一边吃力地跟上去。</p>
+<p>太阳已经沉下去了,少女给葵扔了个手电筒,自己却毫不在意地前进看。</p>
+<p>葵打开了手电筒“小心脚下啊。”</p>
+<p>“越来越近了……”前面的人小声嘀咕着,完全没把葵当回事。</p>
+<p>忽然转过头来问了一句,“你说的那个鬼,有人真的见过吗?”</p>
+<p>葵没有回答(或者说她根本没听见她说了什么),只是瞪大了眼睛盯着川阳的双眼——正在熠熠闪着金黄的光。</p>
+<p>“小葵,听见我说话了吗?”川阳把脸往前凑,几乎要顶到葵的鼻尖,把还在惊愕中的葵吓了一个趔趄。</p>
+<p>“啊…对不起……你的眼睛”</p>
+<p>川阳眨了眨眼,“哦,我走夜路不用灯。”</p>
+<p>“说正事,那个女有人真的见过吗?”</p>
+<blockquote>
+<p>2022.3.26</p>
+</blockquote>
+<p>“这……不好说。学校里大家都在传,但有胆子大的去山上看了说什么都没有。”</p>
+<p>“那被鬼盯上之类的就是以讹传讹了?”</p>
+<p>“嗯……说不清。谁来管这等事。”</p>
+<p>川阳望了望密林缝隙透过的月光“快到山顶了吗?”</p>
+<p>“快了。”</p>
+<p>虽然看不见,但葵总觉得方面的川阳的表情肯定不会有笑容。</p>
+<p>狼出现在她们面前。它的眼中闪着光,与少女不同,是杀意的光。后面也有狼。左边,右边,三只,五只,她们被包围了。</p>
+<p>“啧,你闭上眼;快。”川阳抓起葵的手,向前跑着。葵闭上眼后,眼前红了一下,从乎有很强的闪光。</p>
+<p>“睁开眼吧。不知道能拖多久,赶快往山顶跑就行了!”</p>
+<p>葵被牵着手跌跌撞撞地跑着,惊讶于川阳看起来纤细的手,居然有这么大力气。</p>
+<p>山顶意外地平坦,只有草甸和零星的树,以及不断倾酒的银白的月辉。并没有看到什么女鬼。只有一样东西很突兀——一张白色的光洁的月牙形的吊椅,安静地停在树下,像是和流转的月光融为了一体。</p>
+<p>川阳线浅地笑了一下:“这种东西,一看就知道是谁的了。别藏着了。”</p>
+<p>狼群追了上来。似乎又被某种力量所慑,在进到平地之前停了下来,一个个都坐了下来。川阳于是回转了头。果然。</p>
+<p>白色的少女静伫于无瑕的圆月之下。修长的睫毛下深邃的红宝石，孤寂地凝视着狼群，就像没有看到两人一样,静静地走到吊椅前,坐了下来。</p>
+<p>川阳张了张嘴,却被月下少女抢先了。”为什么来这里。”</p>
+<p>白色的少女声音轻得让葵以为自己幻听了。她从不知道世界上竟有这般空灵，这般缥缈，这般纯净的声音。</p>
+<p>红宝石般的眸子直勾勾盯看川阳,虽然并未让她不舒服,但是心里已经丧失了说谎的能力。</p>
+<p>川阳深吸了一口气:“你为什么来这儿?”</p>
+<p>“因为这里离月亮更近。”</p>
+<p>“我是来带你回去的。月亮不会多看你一眼的。”</p>
+<p>依葵来看,吊椅里的少女的嘴轻轻地发了一个听不见的“啧”的音。少女转过来:“这位是。”</p>
+<p>“我?我……”</p>
+<p>“是我的导游。你别想打她的主意。”</p>
+<p>葵似乎,又看见白色少女啧了一下嘴。</p>
+<p>少女清了清嗓子:“我一个人望着月亮就好了。不需要其他人。”</p>
+<p>川阳噗嗤地笑了出来,对面的少女微微蹙了蹙眉</p>
+<p>“听说山下的人可都把你当成女鬼了。”</p>
+<p>“那有何妨?早知道就不让任何一个山下的人看到我了。”</p>
+<p>“所以呢?你准备对小葵也用一用你那月亮的小把戏?”</p>
+<p>“您觉得呢。”</p>
+<p>“呦,好生客气,终于会问问姐姐的意见了,还用上敬语了,月海?”</p>
+<p>被称为“月海”的少女的眉头皱得更深了。</p>
+<p>“不管你怎么说,姐姐我不会背叛月亮。倒是你,姐姐,就这样叛了你的……</p>
+<p>“别说了。我知道了。看这样子你也不会下山了。唉……从小到大天天就知道往山上跑……</p>
+<p>“不过,让我收手有个条件。”</p>
+<p>月海轻轻歪了下头。</p>
+<p>“就是不消除小葵的记忆,让她去告诉镇上的人们,你不是鬼。就算是个鬼,也是个美女鬼。”说到这,川阳又露出了葵所见熟悉的狡黠的笑容。</p>
+<p>吊椅里的少女忽地瞪大了双眼,又急匆地让吊椅转过去,对了两人。</p>
+<p>“反正我,我是不会下山的。”</p>
+<p>姐姐双手着腰半笑半临地叹了口气:“小月啊,什么时候才能坦率一点啊…</p>
+<p>下山的时候,葵问道:“那位姐姐……为什么要待在山上?她是什么样的人?”</p>
+<p>“我带你来,正是此意。”川阳这次走在后面,望着林隙的月光,“我可要好好讲讲月海的故事了。”</p>
+<p>“为什么给我讲而不是别人?”</p>
+<p>“因为我从你的眼里看到了对阳光的渴望啊”</p>
+<p>葵回头,川阳日闪闪的双眼正笑眯眯地看着她。</p>
+<hr>
+<h1 id="3"><a href="#3" class="headerlink" title="3"></a>3</h1><p>“我说了不劝你下山,但没说我不能上山做客嘛。”</p>
+<p>月海看着一脸坏笑的姐姐,不想说什么了。但是,</p>
+<p>“你带这么多人来干什么?”月一手捂着脸,无奈地摇头。</p>
+<p>“哎,多乎哉?不多矣。才几个人?凑不够两桌麻将呢。都是自己人,别见外。”</p>
+<p>“嗯嗯,都是想认识月姐姐的同学。”葵在一旁附和。</p>
+<p>月海张开手,眯着眼透过指缝望向天空,太阳悬在正中,周围深蓝得没有一丝白云。(不能用她月的小戏法了。)</p>
+<p>“把你动不动就啧的毛病改一下吧,小心以后不到男朋友。”</p>
+<p>“啧。”</p>
+<p>传说只要来一次露天烧烤,世仇的两家也能暂时放嗯怨,这已经成了宁原的传统。川阳问葵时,葵就是如此回答的。顺便一说,为了看着月海,川阳就去葵的高中当了个(数学)老师,在山脚附近租了个房子直接住下了。</p>
+<p>“哎哎,别乱说,我和小月可没有什么世仇啊。”</p>
+<p>“关系好的朋友也会吃烧烤啊。”</p>
+<p>话虽如此,考虑到葵的人际交往能力,大抵没有关系很好的同学的。于是,川阳凭着她奇怪的宣传能力,一个星期就邀请了(认识了)好几个学生参加“山顶燃烤”(由于高中名为“宁阴县女子高中”所以邀请的都是女孩儿)。</p>
+<p>“啊，我见过这位。”月海对着其中一位来客说,“就是这位让我美名远扬了吧。”</p>
+<p>被盯着的女孩挠着头干笑了两声:“我只是和几个朋友说山上有个女生,也没想到会传成那样……我今天是特地来道歉的!”说着,眉毛竖了起来,眼神似乎更坚决了。</p>
+<p>“这是峡。”川阳拍了拍旁边刚鞠下躬的金发少女的背。</p>
+<p>“那位天蓝色(没有宁原的天蓝)头发的是霁。”被指到时少女朝这边微笑着招了招手,</p>
+<p>“那边和葵聊天的是墨砚。大概又是在谈什么小说之类的。”(少有的和葵聊得上天的。)</p>
+<p>“我认识个小姑娘,和你一样喜欢看书啊。”</p>
+<p>“谁?”</p>
+<p>“叫墨砚。和你兴趣这么相投的人你不会不认识吧?”</p>
+<p>“……”</p>
+<p>“没事没事,过几天一块山上聚会就认识了。”顺带一提,她还喜欢写小说……你连文学社都没有加?”</p>
+<p>“放学之后就来这替妈妈看着前台了。”</p>
+<p>川阳故作失望地长叹了一声,低头继续吃红烧牦牛面。</p>
+<p>川阳一行人把烧烤架、炭、盛食物的篮子布置好了。她们整到一半的时候,月海的似乎是不忍心一直在吊椅里坐着,就去帮姐姐干活了。</p>
+<p>“那么,同学们,山顶露天烧烤,开始了!”川阳举起了手中的汽水。</p>
+<p>“哦!”葵、峡、墨砚、霁一齐举起了汽水(葵高举起了果汁)</p>
+<p>“……哦……”月海也举起了果汁。(和葵一样是葡萄汁?)</p>
+<p>烧烤架里的炭红红地烧了起来,串好的肉串被整齐地或歪斜地被摆在了架子上。油滴在炭上,发出滋滋的响声,灰烟薄薄地开起来,白色的少女觉得有些呛，就后退了几步,坐在凳子上观望。</p>
+<p>峡的(九寨沟矿质池般的)青色的眼从炭烧起来的时候,就闪起来了(当然不是川阳的那种闪),一直在架子周围转圈。</p>
+<p>然后撞到了正在给串翻面的霁。“对不起对不起(吸口水),实在是……没忍在”</p>
+<p>“没事,谁让小葵家的肉这么香呢。”霁说话的时候脸上永远微笑着。</p>
+<p>第一批串烤好了。除了峡每手拿了两串,其他人都拿了一串。</p>
+<p>“慢点慢点,别噎着了。”霁轻轻拍了下峡的后背。</p>
+<p>“咕……<ruby>月霭里藏昂恶个<rt>月海你尝尝这个</rt></ruby>…”峡转向了月海(冷静地看着峡)</p>
+<p>虽然月海在姐姐来之前没有什么肉食来源,但似乎对烤肉并没有表现出特别的兴趣,除了两腮上淡淡的粉红。她也没有注意到一边在和葵、墨砚聊天边吃的川阳正在暗暗观察。</p>
+<p>川阳凑到葵耳边悄悄说:“目前来看非常顺利。”</p>
+<p>“嗯。”葵点头。</p>
+<p>“嗯?”墨砚歪头。</p>
+<p>葵凑到墨砚耳边悄悄地重复了一遍。</p>
+<p>“嗯。”墨砚也点头。</p>
+<p>炭一直忽明忽暗地烧着,少女们在烤架周围忙碌着,说笑着。筐里盘子里的肉越来越少。月海不知什么时候就被峡拉到烤架前了。筐里,盘子里的串见底了,汽水果汁也所剩无几。太阳偏到很西的位置了。</p>
+<p>“啊……撑了。”峡瘫在椅子上,长叹(嗝)了一声,绕圈揉着肚子。</p>
+<p>“你这样可不够淑女啊,峡。”霁笑道。</p>
+<p>“去他的淑女……吃饭最重要。小葵家的串太香了……小月也好香……嘿嘿嘿……香香的软软的——?”</p>
+<p>峡的面前唐突地出现了一块银白色的<ruby>圆盘<rt>月轮</rt></ruby>,清楚地反射出其流口水的表情和她嘴后站者的月海的阴沉的表情。伴随着清脆碎玉的响声,<ruby>圆盘<rt>月轮</rt></ruby>的碎片飞散,消失在空中。川阳注视着两人。</p>
+<p>月海盯着还没有缓过来的峡,问道:“你说什么?”</p>
+<p>霁急忙过来解释就“小峡她总是大大咧咧的,小月你别见怪……”</p>
+<p>月海没有理会,继续问:“你刚才说什么?”</p>
+<p>峡尴尬地笑了笑:“没想到你会魔法啊。我们学校里有几个会的,但是没你这么高级——”</p>
+<p>“别岔开话题,回答我。”</p>
+<p>“这就是宁原的法行的用来表达喜爱之情的……啊哈哈哈……只是觉得你的手和脸蛋都很软。”看见月海更阴沉了,峡才停了下来。</p>
+<p>“脸什么的……请你不要随便说。这是第二次了。”月海走向不知从哪冒出来的白色吊椅,坐了进去。</p>
+<p>“啊……我知错了。我改悔罢。”峡又鞠了一躬。</p>
+<p>川阳站了出来:“天色也不早了,大家收拾收拾吧。”随即又小声叹了口气:“还是老样子。”</p>
+<p>东西收拾得差不了。不过川阳特别提到要把烤架留在山上。”我没劲再搬下山了。”</p>
+<p>“回见,小月”川阳挥了挥手。众人也一一和月海告别。</p>
+<p>路上,川阳说:“不过,这可是小月少见地害羞了啊。”</p>
+<p>峡乏马凑了过来:“不是在生气吗?”</p>
+<p>“生气肯定有啊。你只不要接连不断地惹她生气就没事。”</p>
+<p>“下次我一定要好好跟她道歉。”</p>
+<p>“你都预备着有下次了?”墨砚问道。</p>
+<p>(霁说:“不得不说,小月真的很可爱啊。”</p>
+<p>确实。”葵答道。</p>
+<p>“比鲁巴扎特写的妮娅欧,欢还要可爱。”墨砚道。</p>
+<p>“和兮望写的<ruby>多洛莉丝<rt>玫瑰之泪</rt></ruby>不相上下。”葵道。)</p>
+<hr>
+<blockquote>
+<p>古早黑历史归档，如有错误纯属正常。<br>文笔幼稚，请友善评论，还请不要嘲笑😭</p>
+</blockquote>
+]]></content>
+      <categories>
+        <category>OC</category>
+      </categories>
+      <tags>
+        <tag>OC</tag>
+        <tag>归档</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>给hexo-next博客添加石蒜摇摇乐</title>
+    <url>/posts/6278a848/</url>
+    <content><![CDATA[<hr>
+<span id="more"></span>
+
+<p>在\themes\next\ _config.yml中将以下的footer条目取消注释</p>
+<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">custom_file_path:</span><br><span class="line">    footer: <span class="built_in">source</span>/_data/footer.swig</span><br></pre></td></tr></table></figure>
+
+<p>然后在\source\ _data\footer.swig文件（没有则新建）中粘贴以下内容<br>（代码来源：<a href="https://github.com/itorr/sakana">https://github.com/itorr/sakana</a>）</p>
+<figure class="highlight xml"><table><tr><td class="code"><pre><span class="line"><span class="tag">&lt;<span class="name">meta</span> <span class="attr">name</span>=<span class="string">&quot;viewport&quot;</span> <span class="attr">content</span>=<span class="string">&quot;width=device-width&quot;</span>&gt;</span></span><br><span class="line"><span class="tag">&lt;<span class="name">style</span>&gt;</span><span class="language-css"></span></span><br><span class="line"><span class="language-css"></span></span><br><span class="line"><span class="language-css"><span class="selector-tag">html</span> <span class="selector-class">.sakana-box</span>&#123;</span></span><br><span class="line"><span class="language-css">  <span class="attribute">position</span>: fixed;</span></span><br><span class="line"><span class="language-css">  <span class="attribute">right</span>: <span class="number">0</span>;</span></span><br><span class="line"><span class="language-css">  <span class="attribute">bottom</span>: <span class="number">0</span>;</span></span><br><span class="line"><span class="language-css">  </span></span><br><span class="line"><span class="language-css">  <span class="attribute">transform-origin</span>: <span class="number">100%</span> <span class="number">100%</span>; <span class="comment">/* 从右下开始变换 */</span></span></span><br><span class="line"><span class="language-css">&#125;</span></span><br><span class="line"><span class="language-css"></span><span class="tag">&lt;/<span class="name">style</span>&gt;</span></span><br><span class="line"></span><br><span class="line"><span class="tag">&lt;<span class="name">div</span> <span class="attr">class</span>=<span class="string">&quot;sakana-box&quot;</span>&gt;</span><span class="tag">&lt;/<span class="name">div</span>&gt;</span></span><br><span class="line"></span><br><span class="line"><span class="tag">&lt;<span class="name">script</span> <span class="attr">src</span>=<span class="string">&quot;https://cdn.jsdelivr.net/npm/sakana@1.0.8&quot;</span>&gt;</span><span class="tag">&lt;/<span class="name">script</span>&gt;</span></span><br><span class="line"><span class="tag">&lt;<span class="name">script</span>&gt;</span><span class="language-javascript"></span></span><br><span class="line"><span class="language-javascript"><span class="comment">// 取消静音</span></span></span><br><span class="line"><span class="language-javascript"><span class="title class_">Sakana</span>.<span class="title function_">setMute</span>(<span class="literal">false</span>);</span></span><br><span class="line"><span class="language-javascript"></span></span><br><span class="line"><span class="language-javascript"><span class="comment">// 启动</span></span></span><br><span class="line"><span class="language-javascript"><span class="title class_">Sakana</span>.<span class="title function_">init</span>(&#123;</span></span><br><span class="line"><span class="language-javascript">  <span class="attr">el</span>:         <span class="string">&#x27;.sakana-box&#x27;</span>,     <span class="comment">// 启动元素 node 或 选择器</span></span></span><br><span class="line"><span class="language-javascript">  <span class="attr">scale</span>:      <span class="number">.5</span>,                <span class="comment">// 缩放倍数</span></span></span><br><span class="line"><span class="language-javascript">  <span class="attr">canSwitchCharacter</span>: <span class="literal">true</span>,      <span class="comment">// 允许换角色</span></span></span><br><span class="line"><span class="language-javascript">&#125;);</span></span><br><span class="line"><span class="language-javascript"></span><span class="tag">&lt;/<span class="name">script</span>&gt;</span></span><br></pre></td></tr></table></figure>
+
+<p><code>hexo clean &amp;&amp; hexo g &amp;&amp; hexo s</code>之后就可以愉快地玩摇摇乐了~</p>
+]]></content>
+      <categories>
+        <category>技术</category>
+      </categories>
+      <tags>
+        <tag>hexo</tag>
+        <tag>next</tag>
+        <tag>博客</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>使用NapCat与FloraBot部署对接DeepSeek的QQ聊天机器人（老婆）</title>
     <url>/posts/8bfef174/</url>
     <content><![CDATA[<hr>
@@ -777,32 +779,30 @@ Y 坐标, 从: <input id="ymin" name="ymin" value="-1" size="10" type="text">
       </tags>
   </entry>
   <entry>
-    <title>天津罪</title>
-    <url>/posts/feb64c9b/</url>
-    <content><![CDATA[<blockquote>
-<p>本篇日记配乐：<a href="https://music.163.com/song?id=404543135">ひらひら　ひらら</a></p>
-</blockquote>
-<blockquote>
-<p>剧透注意⚠️</p>
-</blockquote>
+    <title>日记2024/1/8</title>
+    <url>/posts/58e155b4/</url>
+    <content><![CDATA[<hr>
 <span id="more"></span>
 
-<p>保守估计，历时半年多，由于各种各样的原因拖到现在，终于把紫社的《天津罪》推完了。</p>
-<p>首先是客观评价，作画是紫社招牌克没得说，且本作的CG水平再上一层楼。实际上开始推这一部的直接原因就是在网上看见了萤在教室KISS男主的那张神级CG。    <img src="https://i.ibb.co/6vvgvKM/76a01e1f3643f421ba98261dfab665963d8a79cb.png" alt="CG"></p>
-<p>本作（或者说克原画的）绝大多数CG均有如此水准，属实难能可贵。（说起来，经常因为一些奇怪的原因开始推&#x2F;看一部作品，比如在<a href="https://zh.moegirl.org.cn/%E6%A8%B1%E5%B0%8F%E8%B7%AF%E9%9C%B2%E5%A8%9C">萌娘百科</a>一时兴起搜刮白毛红瞳美少女，在樱小路露娜界面听见了Luna-sama的经典名言，戳中XP于是火速下载近月少女系列）</p>
-<p>配音是一个角色的灵魂。本作的声优也相当出彩，四个女主的声线都很有区分度：萤的聪慧敏锐、古灵精怪，心的“天使般的”纯洁善良，爱的“常态冷却”，响子的敬语溢出，都得到了很好的体现。以往推的优秀作品每部也至多有一个让我印象深刻的配音，本作的四个配音不分伯仲，可以说刻画出了角色的神韵，让角色活了过来。</p>
-<p>本作的音乐基本上是galgame经典配方。不过爱的角色曲《常態冷却少女》属于出类拔萃了，曲调清冷而舒缓，道出了青梅竹马笼罩着冬天的不坦率的温柔与坚决的爱。</p>
-<p>接下来是主观环节。剧情对于恋爱的描写很优秀，恰到好处。很甜，但不至于齁到。每个角色的恋爱风格都契合形象，这应该是恋爱游戏应该达到的基本条件。对，说的就是柚子社的废萌。本作最能让人在床上扭的角色（抛去萤萤的主线剧情来说）应该就是心心了。少女的集大成者！不过说实话这方面的功劳一小半给克另一小半给声优剩下的剧本只要别ooc就可以了。</p>
-<p>关于主线剧情，没有崩，难能可贵，在没有崩的基础上讲出来了自己的新东西，非常好。但是我并不想为这一部作品写一篇抒情散文或者发病小作文，也许是它不够优秀，也许是我已经老了，失去了从前的激情和浪漫；Who cares？</p>
-<p>（另外，萤萤的True End，水无月萤的心合为一体的片段，我总是不自觉地想到Git的版本控制，甚至中途暂停去复习了半天rebase和merge，最后觉得男主应该是把所有的复制品萤和Original萤merge了，如果更严谨一些，还用到了3路递归合并，因为复制品萤的祖先有两个，过去健康的萤的身体和当时Original萤的灵魂，而Original萤也吸收了复制品萤的生命力之类的东西，至于复杂的冲突处理，就靠男主强大（？）的言灵神力量吧）</p>
-<p>总之，我永远喜欢织部心！我永远喜欢水无月萤！紫社的作品还是要多推几部，克的美少女插画简直是人类瑰宝，少看一张都是人生的遗憾。</p>
+<blockquote>
+<p>季羡林日记 </p>
+<p>1933.2.6<br> 今天仍然拼命看书，因为明天就要考了。学期的成绩就全仗这两天挣，现在更感到考试无用与无聊。</p>
+<p>1934.3.13<br>没做什么有意义的事一一妈的，这些混蛋教授， 不但不知道自己泄气，还整天考，不是你考， 就是我考，考他娘的什么东西？</p>
+</blockquote>
+<p>我对近现代的教育历史不甚了解，但是季老那时的内卷现象应该不是很严重吧。时至今日狼多肉少的年代，考试的竞争压力大约是不减当年的。</p>
+<p>我在大学的迷茫感从何而来？不仅仅是对于未来去向的迷茫。</p>
+<p>这是我最不愿接受的境况。中学时期，我作为小镇做题家常常安慰自己：到了大学，就可以接受所谓的素质教育了，就可以学习到真正有用的技能和喜欢的知识了。然而待我真正进入了大学，却发现美好的幻梦破碎得如此突然。</p>
+<p>于是GPA变成为了悬在大学生头上的一把刀。与之伴随的，则是比中学时代变本加厉的膜拜文化。</p>
+<p>为了考试而考试。考试的确是检验学习成果的重要乃至必要方式。但是考试内容却是不一定能检验学习成果了。中学时代如此，不想大学时代更是如此……这样下去到头来学会的也只是应试能力罢了。</p>
+<p>作为一个工科学生，我尤其希望学习的是实用的理论知识和技能，而不是为了纯粹检验积分能力的复杂积分——这种式子是不会在我未来的专业用到的。    至于那些“水课”，我也不方便多说什么。</p>
+<p>我并不期待能够改变什么现实。我只希望能够学到真才实学，投身于我喜爱的领域。教育内容与工作需求的错位，令我感到十分不安。</p>
+<p>希望自己今后能多参加一点实践项目，增强自己的专业能力吧。前提是GPA还能说得过去。</p>
+<p><img src="https://wallpaper-mania.com/wp-content/uploads/2018/09/High_resolution_wallpaper_background_ID_77700779660.jpg"></p>
+<p>放一张在时钟塔读书的远坂凛。</p>
+<p>自勉</p>
 ]]></content>
       <categories>
-        <category>小作文</category>
+        <category>日记</category>
       </categories>
-      <tags>
-        <tag>小作文</tag>
-        <tag>二次元</tag>
-      </tags>
   </entry>
 </search>
